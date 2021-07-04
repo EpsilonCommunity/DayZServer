@@ -1,135 +1,135 @@
-<Trader> Weapon Supplies
-	<Category> Ammunition
-		Ammo_380,				1,		1,		1
-		Ammo_9x19,				1,		1,		1
-		Ammo_22,				1,		1,		1
-		Ammo_45ACP,				1,		1,		1
-		Ammo_12gaPellets,		1,		3,		1
-		Ammo_12gaSlug,			1,		4,		2
-		Ammo_9x39,				1,		4,		2
-		Ammo_9x39AP,			1,		5,		3
-		Ammo_308Win,			1,		5,		3
-		Ammo_545x39,			1,		5,		3
-		Ammo_556x45,			1,		5,		3
-		Ammo_762x39,			1,		5,		3
-		Ammo_762x54,			1,		10,		6
-		Ammo_556x45Tracer,		1,		10,		5
-		Ammo_545x39Tracer,		1,		10,		5
-		Ammo_308WinTracer,		1,		10,		5
-		Ammo_762x39Tracer,		1,		10,		5
-		Ammo_Flare,				1,		15,		7
-	  Ammo_FlareBlue,			1,		15,		7
-	  Ammo_FlareGreen,		1,		15,		7
-	  Ammo_FlareRed,			1,		15,		7
-		Ammo_762x54Tracer,		1,		20,		12
-		// When changing Prices here keep in Mind that Players
-		// can just unpack the Ammoboxes and sell the Ammo seperatly!
-		// Originally the Ammoboxes buying Price is 20% less than
-		// buying single Ammo. The Selling Price is the same as
-		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,		*,		28,		1
-		AmmoBox_9x19_25rnd,		*,		20,		1
-		AmmoBox_45ACP_25rnd,	*,		20,		1
-		AmmoBox_22_50Rnd,		*,		60,		20
-		AmmoBox_00buck_10rnd,	*,		24,		10
-		AmmoBox_12gaSlug_10Rnd,	*,		32,		20
-		AmmoBox_9x39_20Rnd,		*,		32,		20
-		AmmoBox_9x39AP_20Rnd,	*,		80,		60
-		AmmoBox_308Win_20Rnd,	*,		80,		60
-		AmmoBox_545x39_20Rnd,	*,		80,		60
-		AmmoBox_556x45_20Rnd,	*,		80,		60
-		AmmoBox_762x39_20Rnd,	*,		80,		60
-		AmmoBox_762x54_20Rnd,	*,		200,	120
-		AmmoBox_308WinTracer_20Rnd,		*,		160,	80
-		AmmoBox_545x39Tracer_20Rnd,		*,		160, 	80
-		AmmoBox_556x45Tracer_20Rnd,		*,		160,	80
-		AmmoBox_762x39Tracer_20Rnd,		*,		160,	80
-		AmmoBox_762x54Tracer_20Rnd,		*,		400,	200
+<Trader>WeaponSupplies
+<Category>Ammunition
+Ammo_380,1,1,1
+Ammo_9x19,1,1,1
+Ammo_22,1,1,1
+Ammo_45ACP,1,1,1
+Ammo_12gaPellets,1,3,1
+Ammo_12gaSlug,1,4,2
+Ammo_9x39,1,4,2
+Ammo_9x39AP,1,5,3
+Ammo_308Win,1,5,3
+Ammo_545x39,1,5,3
+Ammo_556x45,1,5,3
+Ammo_762x39,1,5,3
+Ammo_762x54,1,10,6
+Ammo_556x45Tracer,1,10,5
+Ammo_545x39Tracer,1,10,5
+Ammo_308WinTracer,1,10,5
+Ammo_762x39Tracer,1,10,5
+Ammo_Flare,1,15,7
+Ammo_FlareBlue,1,15,7
+Ammo_FlareGreen,1,15,7
+Ammo_FlareRed,1,15,7
+Ammo_762x54Tracer,1,20,12
+//WhenchangingPricesherekeepinMindthatPlayers
+//canjustunpacktheAmmoboxesandselltheAmmoseperatly!
+//OriginallytheAmmoboxesbuyingPriceis20%lessthan
+//buyingsingleAmmo.TheSellingPriceisthesameas
+//sellingtheAmmoseperately.
+AmmoBox_380_35rnd,*,28,1
+AmmoBox_9x19_25rnd,*,20,1
+AmmoBox_45ACP_25rnd,*,20,1
+AmmoBox_22_50Rnd,*,60,20
+AmmoBox_00buck_10rnd,*,24,10
+AmmoBox_12gaSlug_10Rnd,*,32,20
+AmmoBox_9x39_20Rnd,*,32,20
+AmmoBox_9x39AP_20Rnd,*,80,60
+AmmoBox_308Win_20Rnd,*,80,60
+AmmoBox_545x39_20Rnd,*,80,60
+AmmoBox_556x45_20Rnd,*,80,60
+AmmoBox_762x39_20Rnd,*,80,60
+AmmoBox_762x54_20Rnd,*,200,120
+AmmoBox_308WinTracer_20Rnd,*,160,80
+AmmoBox_545x39Tracer_20Rnd,*,160,80
+AmmoBox_556x45Tracer_20Rnd,*,160,80
+AmmoBox_762x39Tracer_20Rnd,*,160,80
+AmmoBox_762x54Tracer_20Rnd,*,400,200
 
-	<Category> Magazines
-		Mag_IJ70_8Rnd,			M,		30,		15
-		Mag_CZ75_15Rnd,			M,		40,		20
-		Mag_Glock_15Rnd,		M,		40,		20
-		Mag_MKII_10Rnd,			M,		40,		20
-		Mag_1911_7Rnd,			M,		40,		20
-		Mag_FNX45_15Rnd,		M,		40,		20
-		Mag_CZ527_5rnd,			M,		60,		30
-		Mag_CZ61_20Rnd,			M,		100,	50
-		Mag_UMP_25Rnd,			M,		150,	75
-		Mag_MP5_30Rnd,			M,		200,	100
-		Mag_FAL_20Rnd,			M,		100,	50
-		Mag_Saiga_5Rnd,			M,		100,	50
-		Mag_Saiga_8Rnd,			M,		220,	60
-		Mag_Saiga_Drum20Rnd,	M,		480,	110
-		Mag_AKM_30Rnd,			M,		220,	110
-		Mag_AKM_Palm30Rnd,		M,		220,	110
-		Mag_AKM_Drum75Rnd,		M,		480,	220
-		Mag_AK101_30Rnd,		M,		220,	110
-		Mag_AK74_30Rnd,			M,		220,	110
-		Mag_STANAG_30Rnd,		M,		220,	110
-		Mag_STANAGCoupled_30Rnd,M,		480,	220
-		Mag_CMAG_10Rnd,			M,		120,	60
-		Mag_CMAG_20Rnd,			M,		180,	80
-		Mag_CMAG_30Rnd,			M,		220,	110
-		Mag_CMAG_40Rnd,			M,		300,	150
-		Mag_VSS_10Rnd,			M,		220,	110
-		Mag_SVD_10Rnd,			M,		250,	125
-		Mag_308WinSnaploader_2Rnd,		M,		250,	125
+<Category>Magazines
+Mag_IJ70_8Rnd,M,30,15
+Mag_CZ75_15Rnd,M,40,20
+Mag_Glock_15Rnd,M,40,20
+Mag_MKII_10Rnd,M,40,20
+Mag_1911_7Rnd,M,40,20
+Mag_FNX45_15Rnd,M,40,20
+Mag_CZ527_5rnd,M,60,30
+Mag_CZ61_20Rnd,M,100,50
+Mag_UMP_25Rnd,M,150,75
+Mag_MP5_30Rnd,M,200,100
+Mag_FAL_20Rnd,M,100,50
+Mag_Saiga_5Rnd,M,100,50
+Mag_Saiga_8Rnd,M,220,60
+Mag_Saiga_Drum20Rnd,M,480,110
+Mag_AKM_30Rnd,M,220,110
+Mag_AKM_Palm30Rnd,M,220,110
+Mag_AKM_Drum75Rnd,M,480,220
+Mag_AK101_30Rnd,M,220,110
+Mag_AK74_30Rnd,M,220,110
+Mag_STANAG_30Rnd,M,220,110
+Mag_STANAGCoupled_30Rnd,M,480,220
+Mag_CMAG_10Rnd,M,120,60
+Mag_CMAG_20Rnd,M,180,80
+Mag_CMAG_30Rnd,M,220,110
+Mag_CMAG_40Rnd,M,300,150
+Mag_VSS_10Rnd,M,220,110
+Mag_SVD_10Rnd,M,250,125
+Mag_308WinSnaploader_2Rnd,M,250,125
 
-	<Category> Handguards
-		MP5_PlasticHndgrd,		*,		100,	50
-		MP5_RailHndgrd,			*,		150,	75
-		AK74_Hndgrd,			*,		150,	75
-		AK_WoodHndgrd,			*,		200,	100
-		AK_RailHndgrd,			*,		200,	100
-		AK_PlasticHndgrd,		*,		200,	100
-		M4_PlasticHndgrd,		*,		150,	75
-		M4_RISHndgrd,			*,		200,	100
-		M4_MPHndgrd,			*,		200,	100
+<Category>Handguards
+MP5_PlasticHndgrd,*,100,50
+MP5_RailHndgrd,*,150,75
+AK74_Hndgrd,*,150,75
+AK_WoodHndgrd,*,200,100
+AK_RailHndgrd,*,200,100
+AK_PlasticHndgrd,*,200,100
+M4_PlasticHndgrd,*,150,75
+M4_RISHndgrd,*,200,100
+M4_MPHndgrd,*,200,100
 
-	<Category> Buttstocks
-		MP5k_StockBttstck,		*,		100,	50
-		Fal_OeBttstck,			*,		100,	50
-		Fal_FoldingBttstck,		*,		150,	75
-		Saiga_Bttstck,			*,		150,	75
-		AKS74U_Bttstck,			*,		150,	75
-		AK74_WoodBttstck,		*,		150,	75
-		AK_PlasticBttstck,		*,		100,	50
-		AK_WoodBttstck,			*,		150,	75
-		AK_FoldingBttstck,		*,		250,	125
-		M4_OEBttstck,			*,		150,	75
-		M4_CQBBttstck,			*,		150,	75
-		M4_MPBttstck,			*,		150,	75
+<Category>Buttstocks
+MP5k_StockBttstck,*,100,50
+Fal_OeBttstck,*,100,50
+Fal_FoldingBttstck,*,150,75
+Saiga_Bttstck,*,150,75
+AKS74U_Bttstck,*,150,75
+AK74_WoodBttstck,*,150,75
+AK_PlasticBttstck,*,100,50
+AK_WoodBttstck,*,150,75
+AK_FoldingBttstck,*,250,125
+M4_OEBttstck,*,150,75
+M4_CQBBttstck,*,150,75
+M4_MPBttstck,*,150,75
 
-	<Category> Optics
-		M4_CarryHandleOptic,	*,		150,	60
-		BUISOptic,				*,		150,	60
-		FNP45_MRDSOptic,		*,		250,	100
-		ACOGOptic,				*,		300,	120
-		M68Optic,				*,		500,	200
-		M4_T3NRDSOptic,			*,		500,	200
-		KobraOptic,				*,		600,	250
-		KashtanOptic,			*,		700,	300
-		PUScopeOptic,			*,		900,	500
-		HuntingOptic,			*,		1000,	550
-		PSO1Optic,				*,		1100,	600
-		PSO11Optic,				*,		1400,	840
-		KazuarOptic,			*,		2200,	1400
+<Category>Optics
+M4_CarryHandleOptic,*,150,60
+BUISOptic,*,150,60
+FNP45_MRDSOptic,*,250,100
+ACOGOptic,*,300,120
+M68Optic,*,500,200
+M4_T3NRDSOptic,*,500,200
+KobraOptic,*,600,250
+KashtanOptic,*,700,300
+PUScopeOptic,*,900,500
+HuntingOptic,*,1000,550
+PSO1Optic,*,1100,600
+PSO11Optic,*,1400,840
+KazuarOptic,*,2200,1400
 
-	<Category> Supressors
-		PistolSuppressor,		*,		150,	75
-		AK_Suppressor,			*,		250,	125
-		M4_Suppressor,			*,		250,	125
+<Category>Supressors
+PistolSuppressor,*,150,75
+AK_Suppressor,*,250,125
+M4_Suppressor,*,250,125
 
-	<Category> Compensators
-		Mosin_Compensator,		*,		150,	75
-		MP5_Compensator,		*,		200,	100
+<Category>Compensators
+Mosin_Compensator,*,150,75
+MP5_Compensator,*,200,100
 
-	<Category> Bayonets
-		Mosin_Bayonet,			*,		100,	60
-		M9A1_Bayonet,			*,		150,	75
-		AK_Bayonet,				*,		150,	75
-		SKS_Bayonet,			*,		100,	60
+<Category>Bayonets
+Mosin_Bayonet,*,100,60
+M9A1_Bayonet,*,150,75
+AK_Bayonet,*,150,75
+SKS_Bayonet,*,100,60
 
-	<Category> Flashlights
-		Universallight,			*,		120,	60
+<Category>Flashlights
+Universallight,*,120,60
