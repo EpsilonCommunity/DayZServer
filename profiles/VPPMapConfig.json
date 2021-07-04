@@ -1,0 +1,231 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3699.27,0.0,5967.91
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Consume Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3699.27,0.0,5967.91
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Misc Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3691.41,0.0,5998.47
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Weapon Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3708.71,0.0,5974.79
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Weapon Supplies Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3707.46,0.0,5973.3
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Clothing Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+              3703.56,0.0,6009.53
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Vehicles Trader - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3723.84,0.0,5990.04
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Vehicle Spawn - Green Mountain",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                3719.71,	0.0,	5994.85
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8354.06,    0.0,    5995.87
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Consume Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8354.06,    0.0,    5995.87
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Misc Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8357.55,    0.0,    5995.26
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Weapon Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8359.22,    0.0,    5973.69
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Weapon Supplies Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8354.61,    0.0,    5967.63
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Clothing Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+              8370.48,	0.0,	5994.52
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Vehicles Trader - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8365.63,	0.0,	5977.71
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        },
+        {
+            "M_MARKER_NAME": "Vehicle Spawn - Kumyrna",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                58.0,
+                105.0,
+                125.0
+            ],
+            "M_POSITION": [
+                8365.18,	0.0,	5987.68
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 0
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

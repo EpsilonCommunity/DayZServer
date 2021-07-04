@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-06-08 @ 13-58-43
+[InitializeAircraft] Aircraft Initialized: Player Called @ 6458.11/7410.27 (false)
+[EOnBeforeDrop] The Aircraft is 1 Km from called location. @ <5142.460938, 495.000977, 8127.912109>
+[EOnDrop] Zombie Spawned [1] ZmbF_MechanicNormal_Grey @ <6400.323730, 288.863403, 7449.535645> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_MechanicSkinny_Blue @ <6387.991211, 290.675659, 7428.532715> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_OffshoreWorker_Orange @ <6419.765625, 288.014679, 7450.033203> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] Animal_CanisLupus_Grey @ <6386.161133, 288.863251, 7476.683105> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HikerSkinny_Green @ <6397.340332, 288.211945, 7467.060547> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_HunterOld_Autumn @ <6415.764648, 288.099274, 7451.670898> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] Animal_CanisLupus_White @ <6343.957520, 289.453918, 7449.015137> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Spawn failed for zombie [8] 'ZmbM_SurvivorDean_Grey', does not exist in DayZ!
+[EOnDrop] Zombie Spawned [9] ZmbF_VillagerOld_Red @ <6404.940430, 289.213959, 7438.585938> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] Animal_CanisLupus_Grey @ <6397.508301, 289.564423, 7438.868652> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <6392.520508, 434.704620, 7446.847656>.
+[EOnDrop] Supplies have been dropped near the player's location.
+[EOnBeforeDelete] Aircraft despawned @ <16361.474609, 152.000610, 2016.238770>
+[~AirdropPlane] Aircraft destroyed.

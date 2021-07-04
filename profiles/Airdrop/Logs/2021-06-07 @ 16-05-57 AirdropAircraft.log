@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-06-07 @ 16-05-57
+[InitializeAircraft] Aircraft Initialized: Novy Sobor @ 7436/7720 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Novy Sobor. @ <6780.590332, 483.404755, 6371.490723>
+[EOnDrop] Zombie Spawned [1] ZmbM_HermitSkinny_Beige @ <7398.090332, 311.493073, 7673.714844> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_MotobikerFat_Black @ <7376.971191, 305.049194, 7610.767578> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_MilkMaidOld_Green @ <7386.927246, 307.313477, 7608.951660> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_HunterOld_Winter @ <7385.712891, 309.275970, 7686.581055> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_HunterOld_Autumn @ <7385.011230, 307.090454, 7612.457031> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <7398.215332, 435.500488, 7641.410645>.
+[EOnDrop] Supplies have been dropped near Novy Sobor.
+[EOnBeforeDelete] Aircraft despawned @ <11638.058594, 227.583359, 16361.397461>
+[~AirdropPlane] Aircraft destroyed.

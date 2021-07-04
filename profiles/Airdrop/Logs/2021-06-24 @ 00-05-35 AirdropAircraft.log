@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-06-24 @ 00-05-35
+[InitializeAircraft] Aircraft Initialized: Krasnostav @ 12159/12583 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Krasnostav. @ <10763.010742, 398.200012, 13131.250000>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatrolNormal_Flat @ <12072.890625, 140.500000, 12621.286133> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_PatrolNormal_Summer @ <12074.343750, 140.500000, 12638.263672> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_PatrolNormal_Autumn @ <12120.213867, 140.500000, 12605.446289> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_SoldierNormal @ <12043.533203, 140.500000, 12598.697266> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_PatrolNormal_Autumn @ <12044.385742, 140.500000, 12582.972656> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <12081.200195, 283.738129, 12615.156250>.
+[EOnDrop] Supplies have been dropped near Krasnostav.
+[EOnBeforeDelete] Aircraft despawned @ <16360.826172, 152.000610, 10939.609375>
+[~AirdropPlane] Aircraft destroyed.

@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-06-24 @ 16-52-14
+[InitializeAircraft] Aircraft Initialized: Balota @ 5043/2505 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Balota. @ <6529.375000, 158.599350, 2692.195801>
+[EOnDrop] Zombie Spawned [1] ZmbM_SoldierNormal @ <5151.480957, 14.303367, 2519.306885> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_PatrolNormal_Summer @ <5147.550293, 12.586700, 2540.914551> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_SoldierNormal @ <5146.228516, 11.103136, 2550.932129> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_Flat @ <5151.154297, 14.274219, 2520.700928> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_PatrolNormal_Flat @ <5152.092285, 14.074501, 2530.698975> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <5130.195313, 168.902740, 2516.049072>.
+[EOnDrop] Supplies have been dropped near Balota.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.545837, 281.824188, 1744.232422>
+[~AirdropPlane] Aircraft destroyed.

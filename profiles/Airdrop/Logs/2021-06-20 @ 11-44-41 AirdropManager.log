@@ -1,0 +1,25 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-20 @ 14-45-35] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12126.946289, 2438.000000, 12617.754883>
+[EOnCallAirdrop] Aircraft spawn point: <14403.973633, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.407° / 170.615°, Text: 'South (171°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Krasnostav' from the South (171°).
+[2021-06-20 @ 19-45-31] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Berezino <11464.000000, 0.000000, 8908.000000>
+[EOnCallAirdrop] Drop zone offset to: <11467.270508, 2438.000000, 8979.686523>
+[EOnCallAirdrop] Aircraft spawn point: <10736.159180, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.66816° / 354.422°, Text: 'North (354°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Berezino' from the North (354°).
+[2021-06-20 @ 20-45-30] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9349.533203, 2438.000000, 2195.020020>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 12873.377930>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.34319° / 315.745°, Text: 'North/West (316°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Elektrozavodsk' from the North/West (316°).
+[2021-06-20 @ 21-45-30] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Berezino <11464.000000, 0.000000, 8908.000000>
+[EOnCallAirdrop] Drop zone offset to: <11461.224609, 2438.000000, 8908.308594>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 2283.178711>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.934347° / 143.534°, Text: 'South/East (144°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Berezino' from the South/East (144°).

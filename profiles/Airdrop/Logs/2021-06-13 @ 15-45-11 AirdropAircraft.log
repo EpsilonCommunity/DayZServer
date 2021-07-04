@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-06-13 @ 15-45-11
+[InitializeAircraft] Aircraft Initialized: Northwest Airfield @ 4807/9812 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Northwest Airfield. @ <5820.255859, 414.096283, 10917.062500>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatrolNormal_PautRev @ <4857.097656, 339.500000, 9912.916016> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_SoldierNormal @ <4843.272461, 340.314819, 9871.403320> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_PatrolNormal_PautRev @ <4850.292969, 339.507385, 9879.335938> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_SoldierNormal @ <4847.295898, 340.650421, 9855.584961> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_PatrolNormal_Flat @ <4828.853516, 339.912231, 9886.316406> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_PatrolNormal_Autumn @ <4827.060059, 340.945557, 9861.991211> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbM_PatrolNormal_Flat @ <4867.639160, 339.500000, 9843.540039> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_PatrolNormal_PautRev @ <4818.147461, 341.686432, 9844.574219> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_PatrolNormal_Summer @ <4885.630371, 340.837372, 9896.195313> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbM_PatrolNormal_Autumn @ <4813.330078, 340.178314, 9882.172852> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <4856.813477, 479.013885, 9866.296875>.
+[EOnDrop] Supplies have been dropped near Northwest Airfield.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.853088, 269.174774, 3477.812500>
+[~AirdropPlane] Aircraft destroyed.

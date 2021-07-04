@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-06-21 @ 14-41-20
+[InitializeAircraft] Aircraft Initialized: Sosnovka @ 2700/6193 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Sosnovka. @ <3955.395020, 437.825043, 5373.991211>
+[EOnDrop] Zombie Spawned [1] ZmbM_PatrolNormal_Flat @ <2742.211670, 298.987610, 6147.111816> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_PatrolNormal_Autumn @ <2742.275635, 301.020172, 6162.571289> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_SoldierNormal @ <2807.255859, 300.351227, 6166.051758> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_Summer @ <2784.579834, 301.111237, 6168.970703> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_PatrolNormal_PautRev @ <2763.005615, 297.179871, 6134.069336> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <2769.275391, 433.198059, 6147.415039>.
+[EOnDrop] Supplies have been dropped near Sosnovka.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.759705, 359.522797, 8605.722656>
+[~AirdropPlane] Aircraft destroyed.

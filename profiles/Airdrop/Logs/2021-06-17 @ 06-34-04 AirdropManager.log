@@ -1,0 +1,33 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-17 @ 14-35-19] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary Sobor <5823.000000, 0.000000, 7764.000000>
+[EOnCallAirdrop] Drop zone offset to: <5747.266113, 2438.000000, 7729.916016>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 12865.959961>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.49953° / 306.788°, Text: 'North/West (307°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Stary Sobor' from the North/West (307°).
+[2021-06-17 @ 15-35-19] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novodmitrovsk <11125.000000, 0.000000, 14040.000000>
+[EOnCallAirdrop] Drop zone offset to: <11122.380859, 2438.000000, 14033.580078>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 12580.397461>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -3.02179° / 263.136°, Text: 'West (263°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Novodmitrovsk' from the West (263°).
+[2021-06-17 @ 16-35-18] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Stary Sobor <5823.000000, 0.000000, 7764.000000>
+[EOnCallAirdrop] Drop zone offset to: <5883.725098, 2438.000000, 7749.292969>
+[EOnCallAirdrop] Aircraft spawn point: <4499.867676, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.72064° / 188.585°, Text: 'South (189°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Stary Sobor' from the South (189°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (A_Hostile_Noob).
+[2021-06-17 @ 16-46-11] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <5810.770508, 319.428345, 7681.903809>
+[EOnCallAirdrop] Drop zone offset to: <5857.525391, 2438.000000, 7715.305176>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 1750.198730>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.42507° / 228.946°, Text: 'South/West (229°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (-1000/1750.2) from the South/West (229°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Capwell).
+[2021-06-17 @ 16-52-35] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <5762.423340, 317.227692, 7633.861816>
+[EOnCallAirdrop] Drop zone offset to: <5720.392578, 2438.000000, 7639.755859>
+[EOnCallAirdrop] Aircraft spawn point: <1009.006653, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.07407° / 208.835°, Text: 'South/West (209°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (1009.01/-1000) from the South/West (209°).

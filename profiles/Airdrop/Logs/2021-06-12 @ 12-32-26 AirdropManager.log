@@ -1,0 +1,19 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-12 @ 13-33-15] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <4966.625977, 2438.000000, 2499.639648>
+[EOnCallAirdrop] Aircraft spawn point: <5554.172363, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.53392° / 2.11294°, Text: 'North (2°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Balota' from the North (2°).
+[2021-06-12 @ 14-33-15] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novodmitrovsk <11125.000000, 0.000000, 14040.000000>
+[EOnCallAirdrop] Drop zone offset to: <11146.751953, 2438.000000, 14046.772461>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 11371.390625>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.471427° / 117.011°, Text: 'South/East (117°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Novodmitrovsk' from the South/East (117°).
+[2021-06-12 @ 15-33-14] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Northwest Airfield <4807.000000, 0.000000, 9812.000000>
+[EOnCallAirdrop] Drop zone offset to: <4772.629395, 2438.000000, 9799.137695>
+[EOnCallAirdrop] Aircraft spawn point: <15077.880859, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.567559° / 57.4812°, Text: 'North/East (57°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Northwest Airfield' from the North/East (57°).

@@ -1,0 +1,13 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-19 @ 00-46-41] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novy Sobor <7436.000000, 0.000000, 7720.000000>
+[EOnCallAirdrop] Drop zone offset to: <7343.686523, 2438.000000, 7754.467773>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 3296.688721>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.65867° / 242.33°, Text: 'South/West (242°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Novy Sobor' from the South/West (242°).
+[2021-06-19 @ 01-46-41] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Myshkino <2036.000000, 0.000000, 7491.000000>
+[EOnCallAirdrop] Drop zone offset to: <1973.535400, 2438.000000, 7564.338379>
+[EOnCallAirdrop] Aircraft spawn point: <13615.099609, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.63273° / 126.253°, Text: 'South/East (126°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Myshkino' from the South/East (126°).

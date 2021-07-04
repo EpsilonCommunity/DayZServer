@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-06-11 @ 15-39-42
+[InitializeAircraft] Aircraft Initialized: Stary Sobor @ 5823/7764 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Stary Sobor. @ <5139.120117, 500.067902, 9097.949219>
+[EOnDrop] Zombie Spawned [1] ZmbM_VillagerOld_Green @ <5773.351563, 319.751801, 7825.920898> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_HikerSkinny_Green @ <5749.837402, 320.271820, 7847.408203> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbF_MilkMaidOld_Black @ <5777.606445, 319.827423, 7831.219238> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_priestPopSkinny @ <5775.351074, 320.550110, 7883.617188> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_SurvivorNormal_White @ <5776.503418, 318.979126, 7808.892090> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <5783.551758, 464.667145, 7841.253906>.
+[EOnDrop] Supplies have been dropped near Stary Sobor.
+[EOnBeforeDelete] Aircraft despawned @ <10316.284180, 152.000610, -1000.047119>
+[~AirdropPlane] Aircraft destroyed.

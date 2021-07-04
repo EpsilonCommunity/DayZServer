@@ -1,0 +1,2 @@
+[2021-07-04T11:44:08Z] Chat: <A_Hostile_Noob> ᐅ afk
+[2021-07-04T11:44:08Z] RestCallback OnSuccess size=2

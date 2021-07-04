@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-06-14 @ 06-38-22
+[InitializeAircraft] Aircraft Initialized: Novodmitrovsk @ 11125/14040 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Novodmitrovsk. @ <12329.674805, 274.419739, 14931.411133>
+[EOnDrop] Zombie Spawned [1] ZmbM_CitizenBFat_Blue @ <11216.866211, 86.672188, 14069.426758> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_ShortSkirt_white @ <11201.185547, 79.542953, 14110.319336> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_ParamedicNormal_Blue @ <11224.555664, 78.965012, 14113.836914> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_CommercialPilotOld_Grey @ <11150.740234, 84.362610, 14066.307617> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbM_CommercialPilotOld_Brown @ <11200.011719, 77.813271, 14119.000977> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbF_ParamedicNormal_Red @ <11147.708008, 82.851143, 14071.941406> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_ShortSkirt_beige @ <11234.839844, 82.666061, 14092.976563> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbM_SkaterYoung_Brown @ <11175.410156, 79.957695, 14099.853516> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbF_ShortSkirt_yellow @ <11161.164063, 84.000740, 14070.839844> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_ShortSkirt_black @ <11221.264648, 89.281044, 14053.692383> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <11192.952148, 203.903961, 14090.322266>.
+[EOnDrop] Supplies have been dropped near Novodmitrovsk.
+[EOnBeforeDelete] Aircraft despawned @ <-1000.844666, 317.731323, 5067.836914>
+[~AirdropPlane] Aircraft destroyed.

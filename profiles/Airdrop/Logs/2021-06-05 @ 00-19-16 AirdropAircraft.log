@@ -1,0 +1,12 @@
+[AirdropPlane] Aircraft created on 2021-06-05 @ 00-19-16
+[InitializeAircraft] Aircraft Initialized: Novy Sobor @ 7436/7720 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Novy Sobor. @ <8314.953125, 582.690552, 8933.437500>
+[EOnDrop] Zombie Spawned [1] ZmbM_HunterOld_Autumn @ <7457.994141, 325.973572, 7781.701172> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbF_MilkMaidOld_Grey @ <7498.487305, 328.309357, 7753.244141> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_MotobikerFat_Beige @ <7488.838379, 327.108398, 7744.808594> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Spawn failed for zombie [4] 'ZmbM_SurvivorDean_Black', it does not exist in DayZ!
+[EOnDrop] Zombie Spawned [5] ZmbM_VillagerOld_Green @ <7472.004883, 327.032990, 7779.125977> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 5 infected at <7476.262695, 486.680176, 7775.625000>.
+[EOnDrop] Supplies have been dropped near Novy Sobor.
+[EOnBeforeDelete] Aircraft despawned @ <1119.282349, 152.000610, -1000.316223>
+[~AirdropPlane] Aircraft destroyed.

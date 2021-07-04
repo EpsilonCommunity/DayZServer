@@ -1,0 +1,19 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-15 @ 22-54-27] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Skalisty Island <13452.000000, 0.000000, 3112.000000>
+[EOnCallAirdrop] Drop zone offset to: <13532.398438, 2438.000000, 3169.786133>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 2630.198730>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.16419° / 99.4074°, Text: 'East (99°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Skalisty Island' from the East (99°).
+[2021-06-15 @ 23-54-26] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernogorks <6128.000000, 0.000000, 2497.000000>
+[EOnCallAirdrop] Drop zone offset to: <6055.111328, 2438.000000, 2509.354004>
+[EOnCallAirdrop] Aircraft spawn point: <13190.198242, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.459777° / 116.343°, Text: 'South/East (116°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Chernogorks' from the South/East (116°).
+[2021-06-16 @ 00-54-26] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Zelenogorks <2351.000000, 0.000000, 5393.000000>
+[EOnCallAirdrop] Drop zone offset to: <2416.394531, 2438.000000, 5376.630371>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 1980.132446>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.34705° / 224.476°, Text: 'South/West (224°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Zelenogorks' from the South/West (224°).

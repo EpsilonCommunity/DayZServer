@@ -1,0 +1,13 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-25 @ 21-01-38] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9378.107422, 2438.000000, 2208.220703>
+[EOnCallAirdrop] Aircraft spawn point: <14116.291016, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.24682° / 18.5624°, Text: 'North (19°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Elektrozavodsk' from the North (19°).
+[2021-06-25 @ 22-01-28] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12159.249023, 2438.000000, 12580.589844>
+[EOnCallAirdrop] Aircraft spawn point: <4637.085938, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.67624° / 296.663°, Text: 'North/West (297°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Krasnostav' from the North/West (297°).

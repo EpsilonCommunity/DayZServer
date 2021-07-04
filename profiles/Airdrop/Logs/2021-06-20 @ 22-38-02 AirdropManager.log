@@ -1,0 +1,25 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-20 @ 23-38-50] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Berezino <11464.000000, 0.000000, 8908.000000>
+[EOnCallAirdrop] Drop zone offset to: <11470.960938, 2438.000000, 8897.222656>
+[EOnCallAirdrop] Aircraft spawn point: <4042.648926, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.21367° / 216.834°, Text: 'South/West (217°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Berezino' from the South/West (217°).
+[2021-06-21 @ 00-38-50] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <5067.737305, 2438.000000, 2455.327148>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, -958.675476>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.297007° / 107.017°, Text: 'East (107°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Balota' from the East (107°).
+[2021-06-21 @ 01-38-49] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Northwest Airfield <4807.000000, 0.000000, 9812.000000>
+[EOnCallAirdrop] Drop zone offset to: <4857.269531, 2438.000000, 9895.801758>
+[EOnCallAirdrop] Aircraft spawn point: <3732.715332, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.66983° / 185.674°, Text: 'South (186°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Northwest Airfield' from the South (186°).
+[2021-06-21 @ 02-38-48] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Sosnovka <2700.000000, 0.000000, 6193.000000>
+[EOnCallAirdrop] Drop zone offset to: <2698.956543, 2438.000000, 6192.384277>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 14471.788086>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.99109° / 335.919°, Text: 'North/West (336°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Sosnovka' from the North/West (336°).

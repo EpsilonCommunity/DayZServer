@@ -1,0 +1,17 @@
+[AirdropPlane] Aircraft created on 2021-06-23 @ 17-05-41
+[InitializeAircraft] Aircraft Initialized: Zelenogorks @ 2351/5393 (true)
+[EOnBeforeDrop] The Aircraft is 1 Km from Zelenogorks. @ <1727.734009, 368.178741, 6755.981445>
+[EOnDrop] Zombie Spawned [1] ZmbM_ClerkFat_Grey @ <2309.644287, 208.198730, 5476.879395> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [2] ZmbM_CitizenASkinny_Red @ <2282.634766, 200.864899, 5431.286621> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [3] ZmbM_SkaterYoung_Blue @ <2311.963867, 202.074524, 5438.231934> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [4] ZmbM_PatrolNormal_Summer @ <2302.996826, 207.800949, 5475.891602> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [5] ZmbF_Clerk_Normal_White @ <2287.572754, 201.692932, 5436.538086> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [6] ZmbM_CitizenASkinny_Grey @ <2287.994629, 200.327881, 5426.254395> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [7] ZmbF_CitizenBSkinny @ <2316.679688, 209.227768, 5481.519531> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [8] ZmbF_Clerk_Normal_Blue @ <2284.249756, 201.457199, 5435.461426> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [9] ZmbM_JoggerSkinny_Green @ <2342.386719, 204.117996, 5454.867676> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Zombie Spawned [10] ZmbF_JoggerSkinny_Green @ <2307.817139, 207.469742, 5473.005371> ... Lifespan:  Set to 60 minutes.
+[EOnDrop] Drop spawned with 10 infected at <2324.241943, 373.862640, 5450.348633>.
+[EOnDrop] Supplies have been dropped near Zelenogorks.
+[EOnBeforeDelete] Aircraft despawned @ <5272.305664, 152.000610, -1001.646240>
+[~AirdropPlane] Aircraft destroyed.

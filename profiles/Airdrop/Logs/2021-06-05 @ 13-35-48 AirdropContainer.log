@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-06-05 @ 13-35-48
+[InitializeContainer] Winds: Vector <-7.942244, 0.000000, 14.919095>, Speed 16.9014mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Food/Medical', Container: 'AirdropContainer_Medical', Mode/Quantity/Iems: Random/20/11, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] TacticalBaconCan @ <5126.584473, 10.352765, 2521.072754> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] SpaghettiCan @ <5127.135254, 10.355237, 2520.491943> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] Canteen @ <5125.850098, 10.334323, 2521.610840> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] Marmalade @ <5128.222656, 10.666011, 2524.397217> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] PeachesCan @ <5130.861328, 10.938092, 2523.952148> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] Pot @ <5131.057617, 10.837529, 2521.476563> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] Canteen @ <5130.227051, 10.677792, 2521.741699> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] Pot @ <5128.370117, 10.500981, 2521.379883> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] SpaghettiCan @ <5127.904297, 10.648200, 2524.449463> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] VitaminBottle @ <5127.982910, 10.607114, 2523.643311> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] Canteen @ <5127.606934, 10.452836, 2521.486084> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] VitaminBottle @ <5130.758789, 10.907501, 2523.795410> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] Pot @ <5126.894531, 10.536391, 2523.649658> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [14] Marmalade @ <5127.354980, 10.439758, 2521.565430> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [15] TacticalBaconCan @ <5129.740234, 10.619637, 2521.859131> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] Pot @ <5127.523926, 10.669805, 2525.259277> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] TacticalBaconCan @ <5129.428223, 10.657075, 2522.867188> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Canteen @ <5126.124023, 10.378978, 2522.000488> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] TacticalBaconCan @ <5128.239746, 10.614955, 2523.487305> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] TunaCan @ <5126.410645, 10.467100, 2523.054443> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-06-05 @ 14-35-47

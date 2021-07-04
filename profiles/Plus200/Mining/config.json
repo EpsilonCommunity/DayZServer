@@ -1,0 +1,22 @@
+{
+    "buildings": [
+        {
+            "actionText": "Configurable Action Text",
+            "max_mine": -1,
+            "enabledTypes": [
+                "Land_Train_Wagon_Box",
+                "Land_Boat_Small3"
+            ],
+            "itemsProbabilities": [
+                {
+                    "item": "Pipe",
+                    "probability": 50
+                }
+            ]
+        }
+    ],
+    "minedItemsProbabilities": {
+        "Stone": 200,
+        "MetalOre": 200
+    }
+}

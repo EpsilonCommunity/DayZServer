@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-06-09 @ 12-00-26
+[InitializeContainer] Winds: Vector <-19.999491, 0.000000, 0.003546>, Speed 19.9995mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] AmmoBox_762x54_20Rnd @ <11402.388672, 122.138130, 8874.938477> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] AmmoBox_762x39_20Rnd @ <11401.921875, 121.861763, 8875.997070> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] WaterBottle @ <11405.087891, 121.758377, 8877.717773> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] AmmoBox_762x54_20Rnd @ <11405.482422, 121.854492, 8877.450195> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] M4A1 @ <11401.368164, 121.559128, 8877.134766> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] M4A1 @ <11402.758789, 122.399765, 8873.901367> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [7] 'Mossin9130', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [8] AmmoBox_762x54_20Rnd @ <11400.296875, 121.351959, 8877.574219> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] Mag_STANAG_30Rnd @ <11400.980469, 121.611488, 8876.701172> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] Vodka @ <11405.181641, 122.116676, 8876.249023> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] Izh18 @ <11399.771484, 121.329865, 8877.578125> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] WaterBottle @ <11399.824219, 121.402794, 8877.227539> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] Mag_AKM_30Rnd @ <11404.758789, 121.680298, 8877.933594> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [14] WaterBottle @ <11404.320313, 121.352264, 8879.158203> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [15] AKM @ <11402.616211, 121.251640, 8878.999023> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] FNX45 @ <11404.730469, 122.106041, 8876.139648> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] AKM @ <11401.629883, 122.056030, 8874.948242> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Mag_STANAG_30Rnd @ <11400.100586, 121.555565, 8876.529297> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] AKM @ <11404.284180, 121.976837, 8876.528320> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] Izh18 @ <11404.177734, 122.304756, 8875.040039> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-06-09 @ 13-00-26

@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-06-11 @ 05-10-49
+[InitializeContainer] Winds: Vector <-4.932418, 0.000000, 15.616002>, Speed 16.3765mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] TacticalBaconCan @ <2662.528320, 311.434357, 6276.555664> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] Izh18 @ <2662.983643, 311.445496, 6276.271484> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] Izh18 @ <2662.486816, 311.263062, 6274.946777> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] TTSKOPants @ <2665.385986, 311.291077, 6272.723145> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] Mosin_Bayonet @ <2663.912354, 311.349457, 6274.550781> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] Mosin_Bayonet @ <2664.041260, 311.155975, 6272.579102> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] MilitaryBoots_Redpunk @ <2665.362061, 311.428467, 6274.064941> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] Mosin9130 @ <2665.463135, 311.782227, 6276.973633> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] MilitaryBoots_Redpunk @ <2664.574951, 311.315704, 6273.656738> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] TTSKOPants @ <2663.209717, 311.372864, 6275.378906> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] LandMineTrap @ <2663.490723, 311.408325, 6275.478516> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] Mosin_Bayonet @ <2663.494141, 311.301117, 6274.444824> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] M4A1 @ <2664.105469, 311.155518, 6272.519531> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [14] Izh18 @ <2663.298828, 311.365295, 6275.229492> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [15] TacticalBaconCan @ <2666.130371, 311.468842, 6273.792969> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] Mosin_Bayonet @ <2662.746826, 311.229797, 6274.400879> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] AKM @ <2665.683838, 311.439087, 6273.890625> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Mag_STANAG_30Rnd @ <2662.918945, 311.134705, 6273.338379> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] TacticalBaconCan @ <2662.061035, 311.326599, 6276.000000> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] AmmoBox_762x54_20Rnd @ <2664.316406, 311.710358, 6277.389160> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-06-11 @ 06-09-27

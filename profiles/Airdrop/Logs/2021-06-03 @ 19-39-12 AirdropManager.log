@@ -1,0 +1,38 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-03 @ 21-39-50] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12156.159180, 2438.000000, 12580.126953>
+[EOnCallAirdrop] Aircraft spawn point: <2045.827759, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.78416° / 290.479°, Text: 'West (290°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Krasnostav' from the West (290°).
+[2021-06-03 @ 22-39-48] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernogorks <6128.000000, 0.000000, 2497.000000>
+[EOnCallAirdrop] Drop zone offset to: <6109.141113, 2438.000000, 2468.426758>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, 14382.251953>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.860009° / 40.7251°, Text: 'North/East (41°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Chernogorks' from the North/East (41°).
+[ReplaceAirdropFlare] 'Road Flare' activted in player's hand (Capwell).
+[2021-06-03 @ 23-17-11] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Player Called <7342.601074, 6.042499, 3390.233643>
+[EOnCallAirdrop] Drop zone offset to: <7388.732910, 2438.000000, 3379.798096>
+[EOnCallAirdrop] Aircraft spawn point: <16360.000000, 2438.000000, -101.456955>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.369438° / 111.167°, Text: 'East (111°)'
+[EOnCallAirdrop] Aircraft was dispatched to the player's location (16360/-101.457) from the East (111°).
+[2021-06-03 @ 23-39-48] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Myshkino <2036.000000, 0.000000, 7491.000000>
+[EOnCallAirdrop] Drop zone offset to: <1979.782104, 2438.000000, 7515.490723>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 12442.649414>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.12081° / 328.486°, Text: 'North/West (328°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Myshkino' from the North/West (328°).
+[2021-06-04 @ 00-39-47] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12155.548828, 2438.000000, 12593.927734>
+[EOnCallAirdrop] Aircraft spawn point: <14610.066406, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.995163° / 32.9814°, Text: 'North/East (33°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Krasnostav' from the North/East (33°).
+[2021-06-04 @ 01-39-47] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9287.835938, 2438.000000, 2198.965088>
+[EOnCallAirdrop] Aircraft spawn point: <5366.092773, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -2.46305° / 231.122°, Text: 'South/West (231°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Elektrozavodsk' from the South/West (231°).

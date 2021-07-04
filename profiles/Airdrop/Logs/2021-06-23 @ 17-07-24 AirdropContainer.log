@@ -1,0 +1,26 @@
+[InitializeContainer] Container created on 2021-06-23 @ 17-07-24
+[InitializeContainer] Winds: Vector <-2.941817, 0.000000, -3.278636>, Speed 4.40497mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] PowderedMilk @ <2325.892090, 203.124329, 5449.425293> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] Mag_STANAG_30Rnd @ <2326.108398, 203.417572, 5451.360352> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [3] 'Mossin9130', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [4] AmmoBox_762x54_20Rnd @ <2323.010254, 203.139587, 5449.258789> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] M4A1 @ <2326.228760, 203.200851, 5449.959473> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] M4A1 @ <2324.553955, 203.030426, 5448.681152> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] PowderedMilk @ <2326.557617, 203.270203, 5450.446289> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] BakedBeansCan @ <2324.248047, 203.392746, 5451.017578> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] Rice @ <2325.337891, 203.072266, 5449.027832> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] AKM @ <2327.341064, 203.032013, 5448.974609> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] PowderedMilk @ <2324.644287, 203.435135, 5451.328125> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] BakedBeansCan @ <2324.642334, 203.727570, 5453.202148> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] Izh18 @ <2324.109619, 203.061050, 5448.842285> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [14] Mag_STANAG_30Rnd @ <2326.015137, 202.908417, 5448.030273> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [15] AmmoBox_762x39_20Rnd @ <2326.533203, 203.142853, 5449.613281> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] PowderedMilk @ <2322.723877, 203.127747, 5449.156738> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] FNX45 @ <2324.055664, 203.001343, 5448.448242> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Mag_AKM_30Rnd @ <2323.377441, 203.010803, 5448.450684> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [19] 'Mossin9130', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [20] BakedBeansCan @ <2323.666504, 203.584534, 5452.217773> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Airdrop Flare Spawned @ <2326.400879, 203.116470, 5449.427246> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-06-23 @ 18-07-24

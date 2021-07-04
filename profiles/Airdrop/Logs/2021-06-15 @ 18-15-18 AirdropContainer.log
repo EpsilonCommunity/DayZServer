@@ -1,0 +1,25 @@
+[InitializeContainer] Container created on 2021-06-15 @ 18-15-18
+[InitializeContainer] Winds: Vector <9.667041, 0.000000, 8.883816>, Speed 13.1291mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military Weapons', Container: 'AirdropContainer', Mode/Quantity/Iems: Random/20/14, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] Rice @ <2397.881104, 202.377502, 5453.412109> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] FNX45 @ <2398.337402, 202.291946, 5452.785156> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] FNX45 @ <2400.321045, 202.506775, 5455.132813> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] M4A1 @ <2401.672119, 202.510895, 5455.475098> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] WaterBottle @ <2396.723633, 202.437576, 5453.693848> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] BakedBeansCan @ <2398.543457, 202.379456, 5453.553711> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] Izh18 @ <2399.723145, 202.708115, 5456.782227> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] Izh18 @ <2398.724609, 202.451416, 5454.216797> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] BakedBeansCan @ <2399.650879, 202.672394, 5456.443359> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] AKM @ <2399.967529, 202.492569, 5454.924316> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] BakedBeansCan @ <2397.772705, 202.737015, 5456.505859> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] M4A1 @ <2399.029785, 202.742096, 5456.895508> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] PowderedMilk @ <2400.459961, 202.354980, 5453.809082> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [14] WaterBottle @ <2396.928711, 202.789719, 5456.745605> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [15] Izh18 @ <2396.770996, 202.627396, 5455.284668> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] PowderedMilk @ <2399.624023, 202.703308, 5456.711914> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] Mag_STANAG_30Rnd @ <2398.468750, 202.366943, 5453.435059> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] Rice @ <2399.990723, 202.718658, 5456.949707> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] Izh18 @ <2399.385986, 202.264893, 5452.757813> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] FNX45 @ <2396.641846, 202.572693, 5454.804688> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-06-15 @ 19-14-37

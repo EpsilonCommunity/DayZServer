@@ -1,0 +1,13 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-04 @ 14-34-14] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Krasnostav <12159.000000, 0.000000, 12583.000000>
+[EOnCallAirdrop] Drop zone offset to: <12199.351563, 2438.000000, 12587.388672>
+[EOnCallAirdrop] Aircraft spawn point: <12697.483398, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.53117° / 177.73°, Text: 'South (178°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Krasnostav' from the South (178°).
+[2021-06-04 @ 15-34-13] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Novy Sobor <7436.000000, 0.000000, 7720.000000>
+[EOnCallAirdrop] Drop zone offset to: <7457.786133, 2438.000000, 7701.794922>
+[EOnCallAirdrop] Aircraft spawn point: <-1000.000000, 2438.000000, 10952.318359>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 2.77569° / 290.965°, Text: 'West (291°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Novy Sobor' from the West (291°).

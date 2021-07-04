@@ -1,0 +1,26 @@
+[InitializeContainer] Container created on 2021-06-10 @ 16-12-16
+[InitializeContainer] Winds: Vector <-2.790363, 0.000000, -0.962735>, Speed 2.95178mps, Strength 0.1
+[AirdropContainerFall] Drop Type 'Military Weapons', Container: 'AirdropContainer_Military', Mode/Quantity/Iems: Random/20/18, Flare:  10%
+[AirdropContainerFall] Loot Spawned [1] FNX45 @ <7345.698242, 303.870087, 7704.767090> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [2] MilitaryBoots_Redpunk @ <7350.287598, 304.570709, 7705.039551> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [3] LandMineTrap @ <7348.868164, 304.373779, 7706.273438> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [4] CombatBoots_Grey @ <7345.476074, 303.850006, 7706.444336> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [5] Izh18 @ <7349.084473, 304.410858, 7706.521973> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [6] LandMineTrap @ <7348.896484, 304.335327, 7701.924805> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [7] M4A1 @ <7350.198730, 304.547607, 7704.160156> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [8] FNX45 @ <7345.242676, 303.807861, 7705.575195> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [9] TTSKOPants @ <7346.336914, 303.949982, 7702.724121> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [10] Izh18 @ <7347.174805, 304.078735, 7703.044434> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [11] Mosin9130 @ <7346.740723, 304.046722, 7706.631348> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [12] Mosin_Compensator @ <7346.902832, 304.056976, 7705.444824> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [13] Mosin_Compensator @ <7348.903320, 304.335632, 7702.202148> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Spawn failed for item [14] 'PlateCarrierComplete', does not exist in DayZ!
+[AirdropContainerFall] Loot Spawned [15] Mag_AKM_30Rnd @ <7346.003418, 303.899017, 7702.642578> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [16] Mosin_Compensator @ <7348.214355, 304.266388, 7705.866699> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [17] AmmoBox_762x39_20Rnd @ <7349.901855, 304.491119, 7702.980957> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [18] LandMineTrap @ <7346.974609, 304.045288, 7702.123535> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [19] TacticalBaconCan @ <7347.608398, 304.143707, 7703.000488> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Loot Spawned [20] FNX45 @ <7346.249023, 303.945587, 7703.832520> ... Lifespan: Set to 60 minutes.
+[AirdropContainerFall] Airdrop Flare Spawned @ <7346.015625, 303.919098, 7704.916504> ... Lifespan: Set to 60 minutes.
+[AirdropContainerUnstuck] Container was unstuck.
+[~AirdropContainerBase] Container Destroyed on 2021-06-10 @ 17-10-56

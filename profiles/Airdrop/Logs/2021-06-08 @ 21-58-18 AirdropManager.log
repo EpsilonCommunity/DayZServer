@@ -1,0 +1,25 @@
+[AirdropBase] Base class created & settings loaded.
+[2021-06-08 @ 22-59-03] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Zelenogorks <2351.000000, 0.000000, 5393.000000>
+[EOnCallAirdrop] Drop zone offset to: <2363.800537, 2438.000000, 5391.351074>
+[EOnCallAirdrop] Aircraft spawn point: <5945.165527, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 1.2541° / 18.1453°, Text: 'North (18°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Zelenogorks' from the North (18°).
+[2021-06-08 @ 23-59-01] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Chernogorks <6128.000000, 0.000000, 2497.000000>
+[EOnCallAirdrop] Drop zone offset to: <6191.463867, 2438.000000, 2554.367676>
+[EOnCallAirdrop] Aircraft spawn point: <6808.741699, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -1.37854° / 168.984°, Text: 'South (169°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Chernogorks' from the South (169°).
+[2021-06-09 @ 00-58-58] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Elektrozavodsk <9371.000000, 0.000000, 2229.000000>
+[EOnCallAirdrop] Drop zone offset to: <9413.602539, 2438.000000, 2211.704590>
+[EOnCallAirdrop] Aircraft spawn point: <15222.516602, 2438.000000, -1000.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: -0.504242° / 118.891°, Text: 'South/East (119°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Elektrozavodsk' from the South/East (119°).
+[2021-06-09 @ 01-58-55] ----------------------------------------------------------------------------------------------------
+[EOnCallAirdrop] Drop zone asigned: Balota <5043.000000, 0.000000, 2505.000000>
+[EOnCallAirdrop] Drop zone offset to: <4968.422363, 2438.000000, 2519.086670>
+[EOnCallAirdrop] Aircraft spawn point: <14098.807617, 2438.000000, 16360.000000>
+[EOnCallAirdrop] Aircraft bearing ... Angle/Bearing: 0.991885° / 33.1692°, Text: 'North/East (33°)'
+[EOnCallAirdrop] Aircraft has been dispatched to 'Balota' from the North/East (33°).

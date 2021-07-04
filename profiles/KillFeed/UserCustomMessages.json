@@ -1,0 +1,145 @@
+{
+    "SuicideMessages": [
+        " had enough of life.",
+        " gave up on Dayz.",
+        " spat their dummy out.",
+        " went to the Dark Side.",
+        " contemplated life and then thought sod it.",
+        " spanked their monkey for the last time.",
+        " threw the towel in.",
+        " did not like the spawn location.",
+        "  - why cant I get the bloody spawn I want???",
+        " - why the hell did I spawn here AGAIN !"
+    ],
+    "ZombieNames": [
+        " Bitey Boothy",
+        " Old Man Jingo",
+        " Bob the Butcher",
+        " Mrs Tibbs",
+        " Mr Corpse",
+        " Mrs toothless",
+        " Crusty old Ringo",
+        " Miss Ankle Biter",
+        " Mrs Miggin's",
+        " Timmy!!!",
+        " Jimmy the neck nibbler",
+        " Death Dealer Del Boy",
+        " Shambling Rodney",
+        " Brain dead Trigger",
+        " Granny Smith",
+        " Barry the Baptist",
+        " Rott Wilder",
+        " Austin Powers",
+        " Barry Mannilow",
+        " Celine Deadon",
+        " Ed",
+        " Michael eat It Jackson",
+        " Vicar of Deadly",
+        " Skull Cracker Isaiah",
+        " The Hungry One",
+        " The Groaner",
+        " Graveyard Betty",
+        " Harold Bitemark",
+        " Lanky the Lifeless",
+        " Chrystal no brain",
+        " Limbo Pete",
+        " Reanimated Poolie",
+        " Some Fat Scots Bloke",
+        " Rhys death by Halitosis",
+        " Punch the undead Unicorn"
+    ],
+    "ZombieKillMessages": [
+        " was eaten alive.",
+        " did not survive the Zombie apocalypse.",
+        " must have been afk.",
+        " bit off more than they could chew.",
+        " got their arse kicked by the undead.",
+        " OOOOooooofff.",
+        " must have been surrounded.",
+        " did not close the door behind them.",
+        " is definitely no Shaun of the Dead.",
+        " 28 Days later ? nahh more like 2 mins later.",
+        " is now a zombie buffett."
+    ],
+    "VehicleKillMessages": [
+        " is now road kill.",
+        " 0 - Vehicle 1.",
+        " played chicken and lost.",
+        " is definitely no Superman.",
+        " did not look both ways before crossing."
+    ],
+    "LandMineMessages": [
+        " Went Boom !!",
+        " Shouldn't have stood there.",
+        " That looks like a mine?!",
+        " Thats worse than walking on lego.",
+        " Who put that their !!"
+    ],
+    "AnimalMessages": [
+        " Was mauled to death.",
+        " Do not feed the wildlife."
+    ],
+    "UnknownMessages": [
+        " Died from unknown cause.",
+        " Died but we dont know why."
+    ],
+    "GrenadeMessages": [
+        " tryed to catch the Grenade.",
+        " lost at hot potato",
+        " pass the parcel fail."
+    ],
+    "DiedMessages": [
+        " Died"
+    ],
+    "KillerMessages": [
+        " Killer"
+    ],
+    "SuicidedMessages": [
+        " Suicided"
+    ],
+    "DistanceMessages": [
+        " Distance"
+    ],
+    "VictimMessages": [
+        " Victim"
+    ],
+    "KillDetailsMessages": [
+        " Kill Details"
+    ],
+    "DiedToAMessages": [
+        " Died to a"
+    ],
+    "WeaponMessages": [
+        " Weapon:"
+    ],
+    "KilledByMessages": [
+        " Killed by "
+    ],
+    "WithMessages": [
+        " with"
+    ],
+    "FromMessages": [
+        " from"
+    ],
+    "MetersMessages": [
+        " meters"
+    ],
+    "MMessages": [
+        " M"
+    ],
+    "WasBeatToDeathMessages": [
+        " was beaten to death with :"
+    ],
+    "ZombieMessages": [
+        " Zombie"
+    ],
+    "WasKilledByMessages": [
+        " was killed by "
+    ],
+    "VehicleMessages": [
+        " vehicle"
+    ],
+    "WasRunDownByAVehicleMessages": [
+        " was run down by a vehicle"
+    ]
+}
