@@ -1169,6 +1169,9 @@
 		Truck_01_Covered,		V,		50000,	30000
         Truck_01_Covered_Blue,	V,		50000,	30000
         Truck_01_Covered_Orange,V,		50000,	30000
+		Kamaz,                  V,      50000,  30000
+		KamazFuel,              V,      50000,  30000
+		KamazCovered,           V,      50000,  30000
 
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
@@ -1325,6 +1328,11 @@
         Truck_01_Door_2_1_Orange,			*,		500,	180
         Truck_01_Wheel,						*,		600,	120
         Truck_01_WheelDouble,				*,		1000,	200
+		KamazWheel,                         *,      600,    120
+		KamazDoors_Driver,                  *,      500,    180
+		KamazDoors_CoDriver,                *,      500,    180
+		KamazHood,                          *,      400,    140
+		KamazTrunk,                         *,      400,    140
 
 	<Category> Keys
 		VehicleKeyDuplicate,	K,		2000,	1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to 1
@@ -2620,105 +2628,105 @@
 		MilitaryGear_MassBag_PartizanM,			*,		600,	300
 		MilitaryGear_MassRuckBag_PartizanM,		*,		1000,	500
 		Shemagh_PartizanM,						*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Duckhunter
 		MilitaryGear_MassSlingBag_Duckhunter,		*,		400,	200
 		MilitaryGear_MassMolleBag_Duckhunter,		*,		500,	250
 		MilitaryGear_MassBag_Duckhunter,			*,		600,	300
 		MilitaryGear_MassRuckBag_Duckhunter,		*,		1000,	500
 		Shemagh_PartizanM,							*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Multicam
 		MilitaryGear_MassSlingBag_Multicam,		*,		400,	200
 		MilitaryGear_MassMolleBag_Multicam,		*,		500,	250
 		MilitaryGear_MassBag_Multicam,			*,		600,	300
 		MilitaryGear_MassRuckBag_Multicam,		*,		1000,	500
 		Shemagh_PartizanM,						*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Splinter
 		MilitaryGear_MassSlingBag_Splinter,		*,		400,	200
 		MilitaryGear_MassMolleBag_Splinter,		*,		500,	250
 		MilitaryGear_MassBag_Splinter,			*,		600,	300
 		MilitaryGear_MassRuckBag_Splinter,		*,		1000,	500
 		Shemagh_PartizanM,						*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Dark Splinter
 		MilitaryGear_MassSlingBag_Splinter_Dark,	*,		400,	200
 		MilitaryGear_MassMolleBag_Splinter_Dark,	*,		500,	250
 		MilitaryGear_MassBag_Splinter_Dark,			*,		600,	300
 		MilitaryGear_MassRuckBag_Splinter_Dark,		*,		1000,	500
 		Shemagh_PartizanM,							*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Tiger
 		MilitaryGear_MassSlingBag_Tiger,	*,		400,	200
 		MilitaryGear_MassMolleBag_Tiger,	*,		500,	250
 		MilitaryGear_MassBag_Tiger,			*,		600,	300
 		MilitaryGear_MassRuckBag_Tiger,		*,		1000,	500
 		Shemagh_PartizanM,						*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Woodland
 		MilitaryGear_MassSlingBag_Woodland,		*,		400,	200
 		MilitaryGear_MassMolleBag_Woodland,		*,		500,	250
 		MilitaryGear_MassBag_Woodland,			*,		600,	300
 		MilitaryGear_MassRuckBag_Woodland,		*,		1000,	500
 		Shemagh_PartizanM,						*,		400,	200
-		
+
 	<Category> Military Gear Expansion | FLT
 		MilitaryGear_MassSlingBag_FLT,		*,		400,	200
 		MilitaryGear_MassMolleBag_FLT,		*,		500,	250
 		MilitaryGear_MassBag_FLT,			*,		600,	300
 		MilitaryGear_MassRuckBag_FLT,		*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | DPM
 		MilitaryGear_MassSlingBag_DPM,		*,		400,	200
 		MilitaryGear_MassMolleBag_DPM,		*,		500,	250
 		MilitaryGear_MassBag_DPM,			*,		600,	300
 		MilitaryGear_MassRuckBag_DPM,		*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | MPAT
 		MilitaryGear_MassSlingBag_MPAT,		*,		400,	200
 		MilitaryGear_MassMolleBag_MPAT,		*,		500,	250
 		MilitaryGear_MassBag_MPAT,			*,		600,	300
 		MilitaryGear_MassRuckBag_MPAT,		*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Partizan
 		MilitaryGear_MassSlingBag_PartizanM,	*,		400,	200
 		MilitaryGear_MassMolleBag_Partizan,		*,		500,	250
 		MilitaryGear_MassBag_Partizan,			*,		600,	300
 		MilitaryGear_MassRuckBag_Partizan,		*,		1000,	500
 		Shemagh_PartizanM,						*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Skol
 		MilitaryGear_MassSlingBag_Skol,		*,		400,	200
 		MilitaryGear_MassMolleBag_Skol,		*,		500,	250
 		MilitaryGear_MassBag_Skol,			*,		600,	300
 		MilitaryGear_MassRuckBag_Skol,		*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | A-TACS
 		MilitaryGear_MassSlingBag_ATACS,	*,		400,	200
 		MilitaryGear_MassMolleBag_ATACS,	*,		500,	250
 		MilitaryGear_MassBag_ATACS,			*,		600,	300
 		MilitaryGear_MassRuckBag_ATACS,		*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | CADPAT
 		MilitaryGear_MassSlingBag_CADPAT,	*,		400,	200
 		MilitaryGear_MassMolleBag_CADPAT,	*,		500,	250
 		MilitaryGear_MassBag_CADPAT,		*,		600,	300
 		MilitaryGear_MassRuckBag_CADPAT,	*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Tropic
 		MilitaryGear_MassSlingBag_Tropic,	*,		400,	200
 		MilitaryGear_MassMolleBag_Tropic,	*,		500,	250
 		MilitaryGear_MassBag_Tropic,		*,		600,	300
 		MilitaryGear_MassRuckBag_Tropic,	*,		1000,	500
 		Shemagh_PartizanM,					*,		400,	200
-		
+
 	<Category> Military Gear Expansion | Yeger
 		MilitaryGear_MassSlingBag_Yeger,	*,		400,	200
 		MilitaryGear_MassMolleBag_Yeger,	*,		500,	250
