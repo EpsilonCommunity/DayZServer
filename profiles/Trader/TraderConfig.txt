@@ -46,13 +46,13 @@
 		Brown_CamoNetPoncho, 		*, 4500, 1500
 
 
-		<Category>military bags
+		<Category>Military Bags
 		Spur_MilBag_Black, 			*, 4500, 1500
 		Spur_MilBag_Green, 			*, 4500, 1500
 		Spur_MilBag_Tan, 			*, 4500, 1500
-		Spur_MilBag_WoodlandCamo, 			*, 4500, 1500
-		Spur_MilBag_MultiCamo, 			*, 4500, 1500
-		Spur_MilBag_WinterCamo, 			*, 4500, 1500
+		Spur_MilBag_WoodlandCamo, 	*, 4500, 1500
+		Spur_MilBag_MultiCamo, 		*, 4500, 1500
+		Spur_MilBag_WinterCamo, 	*, 4500, 1500
 
 		<Category>Leather Bags
 		Spur_LW_Bag_Black, 			*, 4500, 1500
@@ -60,25 +60,25 @@
 		Spur_LW_Bag_Brown, 			*, 4500, 1500
 		Spur_LW_Bag_Green, 			*, 4500, 1500
 		Spur_LW_Bag_Grey, 			*, 4500, 1500
-		Spur_LW_Bag_Orange, 			*, 4500, 1500
-		Spur_LW_Bag_Purple, 			*, 4500, 1500
+		Spur_LW_Bag_Orange, 		*, 4500, 1500
+		Spur_LW_Bag_Purple, 		*, 4500, 1500
 		Spur_LW_Bag_Red, 			*, 4500, 1500
 
 		<Category>Pistol holsters
 		PlateCarrierHolster_Spur_Green, 			*, 4500, 1500
 		PlateCarrierHolster_Spur_Black, 			*, 4500, 1500
-		PlateCarrierHolster_Spur_Tan, 			*, 4500, 1500
-		PlateCarrierHolster_Spur_WoodlandCamo, 			*, 4500, 1500
-		PlateCarrierHolster_Spur_MultiCamo, 			*, 4500, 1500
-		PlateCarrierHolster_Spur_WinterCamo, 			*, 4500, 1500
+		PlateCarrierHolster_Spur_Tan, 				*, 4500, 1500
+		PlateCarrierHolster_Spur_WoodlandCamo, 		*, 4500, 1500
+		PlateCarrierHolster_Spur_MultiCamo, 		*, 4500, 1500
+		PlateCarrierHolster_Spur_WinterCamo, 		*, 4500, 1500
 
 		<Category>Smersh bags
 		SmershBag_Spur_Green, 			*, 4500, 1500
 		SmershBag_Spur_Black, 			*, 4500, 1500
 		SmershBag_Spur_Tan, 			*, 4500, 1500
-		SmershBag_Spur_WoodlandCamo, 			*, 4500, 1500
-		SmershBag_Spur_MultiCamo, 			*, 4500, 1500
-		SmershBag_Spur_WinterCamo, 			*, 4500, 1500
+		SmershBag_Spur_WoodlandCamo, 	*, 4500, 1500
+		SmershBag_Spur_MultiCamo, 		*, 4500, 1500
+		SmershBag_Spur_WinterCamo, 		*, 4500, 1500
 
 		<Category> Munghards Itempack
 
@@ -235,12 +235,12 @@
 
 			<Category> Mortys Weapon Parts
 
-			TTC_DMR_Barrel_556, *, 10000, 7500
-			TTC_DMR_Barrel_762, *, 11000, 7500
-			TTC_DMR_RifleFrame, *, 20000, 7500
+			TTC_DMR_Barrel_556, 	*, 10000, 7500
+			TTC_DMR_Barrel_762, 	*, 11000, 7500
+			TTC_DMR_RifleFrame, 	*, 20000, 7500
 			TTC_AKMod_Barrel_76239, *, 11000, 7500
 			TTC_AKMod_Barrel_76254, *, 11000, 7500
-			TTC_AKMod_RifleFrame, *, 20000, 7500
+			TTC_AKMod_RifleFrame, 	*, 20000, 7500
 
 			<Category> Mortys Buttstocks
 
@@ -382,209 +382,209 @@
 			TTC_HAMR, *, 5000, 2000
 
 			<Category> Modular Vest System
-	        MVS_Combat_Vest_OD,                                                                             *,      100,    50
-	        MVS_Combat_Vest_Tan,                                                                            *,      100,    50
-	        MVS_Combat_Vest_Black,                                                                          *,      100,    50
-			MVS_Combat_Vest_Snow,                                                                           *,      100,    50
-			MVS_Combat_Vest_ERDL,                                                                           *,      100,    50
-	        MVS_Combat_Vest_Multicam,                                                                       *,      100,    50
-	        MVS_Combat_Vest_Multicam_Tropic,                                                                *,      100,    50
-	        MVS_Combat_Vest_Multicam_Black,                                                                 *,      100,    50
+	        MVS_Combat_Vest_OD,               *,      100,    50
+	        MVS_Combat_Vest_Tan,              *,      100,    50
+	        MVS_Combat_Vest_Black,            *,      100,    50
+			MVS_Combat_Vest_Snow,             *,      100,    50
+			MVS_Combat_Vest_ERDL,             *,      100,    50
+	        MVS_Combat_Vest_Multicam,         *,      100,    50
+	        MVS_Combat_Vest_Multicam_Tropic,  *,      100,    50
+	        MVS_Combat_Vest_Multicam_Black,   *,      100,    50
 
-	        MVS_ChestRig_OD,                                                                               	*,      100,    50
-	        MVS_ChestRig_Tan,                                                                           	*,      100,    50
-	        MVS_ChestRig_Black,                                                                       		*,      100,    50
-	        MVS_ChestRig_Snow,                                                                           	*,      100,    50
-	 		MVS_ChestRig_ERDL,                                                                         		*,      100,    50
-	 		MVS_ChestRig_Multicam,                                                                          *,      100,    50
-	 		MVS_ChestRig_Multicam_Tropic,                                                                   *,      100,    50
-	 		MVS_ChestRig_Multicam_Black,                                                                    *,      100,    50
+	        MVS_ChestRig_OD,                  *,      100,    50
+	        MVS_ChestRig_Tan,                 *,      100,    50
+	        MVS_ChestRig_Black,               *,      100,    50
+	        MVS_ChestRig_Snow,                *,      100,    50
+	 		MVS_ChestRig_ERDL,                *,      100,    50
+	 		MVS_ChestRig_Multicam,            *,      100,    50
+	 		MVS_ChestRig_Multicam_Tropic,     *,      100,    50
+	 		MVS_ChestRig_Multicam_Black,      *,      100,    50
 
-	        MVS_Combat_Vest_Heavy_OD,                                                                       *,      500,    250
-	        MVS_Combat_Vest_Heavy_Tan,                                                                      *,      500,    250
-	        MVS_Combat_Vest_Heavy_Black,                                                                    *,      500,    250
-	        MVS_Combat_Vest_Heavy_Snow,                                                                     *,      500,    250
-	        MVS_Combat_Vest_Heavy_ERDL,                                                                     *,      500,    250
-	        MVS_Combat_Vest_Heavy_Multicam,                                                                 *,      500,    250
-	        MVS_Combat_Vest_Heavy_Multicam_Tropic,                                                          *,      500,    250
-	        MVS_Combat_Vest_Heavy_Multicam_Black,                                                           *,      500,    250
+	        MVS_Combat_Vest_Heavy_OD,              *,      500,    250
+	        MVS_Combat_Vest_Heavy_Tan,             *,      500,    250
+	        MVS_Combat_Vest_Heavy_Black,           *,      500,    250
+	        MVS_Combat_Vest_Heavy_Snow,            *,      500,    250
+	        MVS_Combat_Vest_Heavy_ERDL,            *,      500,    250
+	        MVS_Combat_Vest_Heavy_Multicam,        *,      500,    250
+	        MVS_Combat_Vest_Heavy_Multicam_Tropic, *,      500,    250
+	        MVS_Combat_Vest_Heavy_Multicam_Black,  *,      500,    250
 
-	        MVS_Heavy_Pouch_OD,                                                                          	*,      200,    100
-	        MVS_Heavy_Pouch_Tan,                                                                        	*,      200,    100
-	        MVS_Heavy_Pouch_Black,                                                                      	*,      200,    100
-	        MVS_Heavy_Pouch_Snow,                                                                       	*,      200,    100
-	        MVS_Heavy_Pouch_ERDL,                                                                       	*,      200,    100
-	        MVS_Heavy_Pouch_Multicam,                                                                       *,      200,    100
-	        MVS_Heavy_Pouch_Multicam_Tropic,                                                                *,      200,    100
-	        MVS_Heavy_Pouch_Multicam_Black,                                                                 *,      200,    100
+	        MVS_Heavy_Pouch_OD,                    *,      200,    100
+	        MVS_Heavy_Pouch_Tan,                   *,      200,    100
+	        MVS_Heavy_Pouch_Black,                 *,      200,    100
+	        MVS_Heavy_Pouch_Snow,                  *,      200,    100
+	        MVS_Heavy_Pouch_ERDL,                  *,      200,    100
+	        MVS_Heavy_Pouch_Multicam,              *,      200,    100
+	        MVS_Heavy_Pouch_Multicam_Tropic,       *,      200,    100
+	        MVS_Heavy_Pouch_Multicam_Black,        *,      200,    100
 
-			MVS_Canteen_OD,                                                                            		*,      100,    50
-			MVS_Canteen_Tan,                                                                            	*,      100,    50
-			MVS_Canteen_Black,                                                                            	*,      100,    50
-			MVS_Canteen_Snow,                                                                            	*,      100,    50
-			MVS_Canteen_ERDL,                                                                            	*,      100,    50
-			MVS_Canteen_Multicam,                                                                           *,      100,    50
-			MVS_Canteen_Multicam_Tropic,                                                                    *,      100,    50
-			MVS_Canteen_Multicam_Black,                                                                     *,      100,    50
+			MVS_Canteen_OD,                        *,      100,    50
+			MVS_Canteen_Tan,                       *,      100,    50
+			MVS_Canteen_Black,                     *,      100,    50
+			MVS_Canteen_Snow,                      *,      100,    50
+			MVS_Canteen_ERDL,                      *,      100,    50
+			MVS_Canteen_Multicam,                  *,      100,    50
+			MVS_Canteen_Multicam_Tropic,           *,      100,    50
+			MVS_Canteen_Multicam_Black,            *,      100,    50
 
-	        MVS_Magazine_Pouch_OD,                                                                          *,      100,    50
-	        MVS_Magazine_Pouch_Tan,                                                                         *,      100,    50
-	        MVS_Magazine_Pouch_Black,                                                                       *,      100,    50
-	        MVS_Magazine_Pouch_Snow,                                                                        *,      100,    50
-	        MVS_Magazine_Pouch_ERDL,                                                                        *,      100,    50
-	        MVS_Magazine_Pouch_Multicam,                                                                    *,      100,    50
-	        MVS_Magazine_Pouch_Multicam_Tropic,                                                             *,      100,    50
-	        MVS_Magazine_Pouch_Multicam_Black,                                                              *,      100,    50
+	        MVS_Magazine_Pouch_OD,                 *,      100,    50
+	        MVS_Magazine_Pouch_Tan,                *,      100,    50
+	        MVS_Magazine_Pouch_Black,              *,      100,    50
+	        MVS_Magazine_Pouch_Snow,               *,      100,    50
+	        MVS_Magazine_Pouch_ERDL,               *,      100,    50
+	        MVS_Magazine_Pouch_Multicam,           *,      100,    50
+	        MVS_Magazine_Pouch_Multicam_Tropic,    *,      100,    50
+	        MVS_Magazine_Pouch_Multicam_Black,     *,      100,    50
 
-			MVS_Taco_Pouch_OD,                                                                          	*,      100,    50
-	        MVS_Taco_Pouch_Tan,                                                                        	 	*,      100,    50
-	        MVS_Taco_Pouch_Black,                                                                       	*,      100,    50
-	        MVS_Taco_Pouch_Snow,                                                                        	*,      100,    50
-	        MVS_Taco_Pouch_ERDL,                                                                        	*,      100,    50
-	        MVS_Taco_Pouch_Multicam,                                                                        *,      100,    50
-	        MVS_Taco_Pouch_Multicam_Tropic,                                                                 *,      100,    50
-	        MVS_Taco_Pouch_Multicam_Black,                                                                  *,      100,    50
+			MVS_Taco_Pouch_OD,                     *,      100,    50
+	        MVS_Taco_Pouch_Tan,                    *,      100,    50
+	        MVS_Taco_Pouch_Black,                  *,      100,    50
+	        MVS_Taco_Pouch_Snow,                   *,      100,    50
+	        MVS_Taco_Pouch_ERDL,                   *,      100,    50
+	        MVS_Taco_Pouch_Multicam,               *,      100,    50
+	        MVS_Taco_Pouch_Multicam_Tropic,        *,      100,    50
+	        MVS_Taco_Pouch_Multicam_Black,         *,      100,    50
 
-	        MVS_Admin_Pouch_OD,                                                                             *,      100,    50
-	        MVS_Admin_Pouch_Tan,                                                                            *,      100,    50
-	        MVS_Admin_Pouch_Black,                                                                          *,      100,    50
-	        MVS_Admin_Pouch_Snow,                                                                           *,      100,    50
-			MVS_Admin_Pouch_ERDL,                                                                           *,      100,    50
-			MVS_Admin_Pouch_Multicam,                                                                       *,      100,    50
-			MVS_Admin_Pouch_Multicam_Tropic,                                                                *,      100,    50
-			MVS_Admin_Pouch_Multicam_Black,                                                                 *,      100,    50
+	        MVS_Admin_Pouch_OD,                    *,      100,    50
+	        MVS_Admin_Pouch_Tan,                   *,      100,    50
+	        MVS_Admin_Pouch_Black,                 *,      100,    50
+	        MVS_Admin_Pouch_Snow,                  *,      100,    50
+			MVS_Admin_Pouch_ERDL,                  *,      100,    50
+			MVS_Admin_Pouch_Multicam,              *,      100,    50
+			MVS_Admin_Pouch_Multicam_Tropic,       *,      100,    50
+			MVS_Admin_Pouch_Multicam_Black,        *,      100,    50
 
-	        MVS_Utility_Pouch_OD,                                                                           *,      100,    50
-	        MVS_Utility_Pouch_Tan,                                                                          *,      100,    50
-	        MVS_Utility_Pouch_Black,                                                                        *,      100,    50
-	        MVS_Utility_Pouch_Snow,                                                                         *,      100,    50
-	        MVS_Utility_Pouch_ERDL,                                                                         *,      100,    50
-	        MVS_Utility_Pouch_Multicam,                                                                     *,      100,    50
-	        MVS_Utility_Pouch_Multicam_Tropic,                                                              *,      100,    50
-	        MVS_Utility_Pouch_Multicam_Black,                                                               *,      100,    50
+	        MVS_Utility_Pouch_OD,                  *,      100,    50
+	        MVS_Utility_Pouch_Tan,                 *,      100,    50
+	        MVS_Utility_Pouch_Black,               *,      100,    50
+	        MVS_Utility_Pouch_Snow,                *,      100,    50
+	        MVS_Utility_Pouch_ERDL,                *,      100,    50
+	        MVS_Utility_Pouch_Multicam,            *,      100,    50
+	        MVS_Utility_Pouch_Multicam_Tropic,     *,      100,    50
+	        MVS_Utility_Pouch_Multicam_Black,      *,      100,    50
 
-	        MVS_Medical_Pouch_OD,                                                                           *,      100,    50
-	        MVS_Medical_Pouch_Tan,                                                                          *,      100,    50
-	        MVS_Medical_Pouch_Black,                                                                        *,      100,    50
-	        MVS_Medical_Pouch_Snow,                                                                         *,      100,    50
-	        MVS_Medical_Pouch_ERDL,                                                                         *,      100,    50
-	        MVS_Medical_Pouch_Multicam,                                                                     *,      100,    50
-	        MVS_Medical_Pouch_Multicam_Tropic,                                                              *,      100,    50
-	        MVS_Medical_Pouch_Multicam_Black,                                                               *,      100,    50
+	        MVS_Medical_Pouch_OD,                  *,      100,    50
+	        MVS_Medical_Pouch_Tan,                 *,      100,    50
+	        MVS_Medical_Pouch_Black,               *,      100,    50
+	        MVS_Medical_Pouch_Snow,                *,      100,    50
+	        MVS_Medical_Pouch_ERDL,                *,      100,    50
+	        MVS_Medical_Pouch_Multicam,            *,      100,    50
+	        MVS_Medical_Pouch_Multicam_Tropic,     *,      100,    50
+	        MVS_Medical_Pouch_Multicam_Black,      *,      100,    50
 
-	        MVS_Belt_OD,                                                                                 	*,      100,    50
-	        MVS_Belt_Tan,                                                                                 	*,      100,    50
-	        MVS_Belt_Black,                                                                                 *,      100,    50
-	        MVS_Belt_Snow,                                                                                 	*,      100,    50
-	        MVS_Belt_ERDL,                                                                                 	*,      100,    50
-	        MVS_Belt_Multicam,                                                                              *,      100,    50
-	        MVS_Belt_Multicam_Tropic,                                                                       *,      100,    50
-	        MVS_Belt_Multicam_Black,                                                                        *,      100,    50
+	        MVS_Belt_OD,                           *,      100,    50
+	        MVS_Belt_Tan,                          *,      100,    50
+	        MVS_Belt_Black,                        *,      100,    50
+	        MVS_Belt_Snow,                         *,      100,    50
+	        MVS_Belt_ERDL,                         *,      100,    50
+	        MVS_Belt_Multicam,                     *,      100,    50
+	        MVS_Belt_Multicam_Tropic,              *,      100,    50
+	        MVS_Belt_Multicam_Black,               *,      100,    50
 
-	        MVS_Holster_OD,                                                                                 *,      100,    50
-	        MVS_Holster_Tan,                                                                                *,      100,    50
-	        MVS_Holster_Black,                                                                              *,      100,    50
-	        MVS_Holster_Snow,                                                                               *,      100,    50
-	        MVS_Holster_ERDL,                                                                               *,      100,    50
-	        MVS_Holster_Multicam,                                                                           *,      100,    50
-	        MVS_Holster_Multicam_Tropic,                                                                    *,      100,    50
-	        MVS_Holster_Multicam_Black,                                                                     *,      100,    50
+	        MVS_Holster_OD,                        *,      100,    50
+	        MVS_Holster_Tan,                       *,      100,    50
+	        MVS_Holster_Black,                     *,      100,    50
+	        MVS_Holster_Snow,                      *,      100,    50
+	        MVS_Holster_ERDL,                      *,      100,    50
+	        MVS_Holster_Multicam,                  *,      100,    50
+	        MVS_Holster_Multicam_Tropic,           *,      100,    50
+	        MVS_Holster_Multicam_Black,            *,      100,    50
 
-	        MVS_Sheath_OD,                                                                                  *,      100,    50
-	        MVS_Sheath_Tan,                                                                                 *,      100,    50
-	        MVS_Sheath_Black,                                                                               *,      100,    50
-	        MVS_Sheath_Snow,                                                                                *,      100,    50
-	        MVS_Sheath_ERDL,                                                                                *,      100,    50
-	        MVS_Sheath_Multicam,                                                                            *,      100,    50
-	        MVS_Sheath_Multicam_Tropic,                                                                     *,      100,    50
-	        MVS_Sheath_Multicam_Black,                                                                      *,      100,    50
+	        MVS_Sheath_OD,                         *,      100,    50
+	        MVS_Sheath_Tan,                        *,      100,    50
+	        MVS_Sheath_Black,                      *,      100,    50
+	        MVS_Sheath_Snow,                       *,      100,    50
+	        MVS_Sheath_ERDL,                       *,      100,    50
+	        MVS_Sheath_Multicam,                   *,      100,    50
+	        MVS_Sheath_Multicam_Tropic,            *,      100,    50
+	        MVS_Sheath_Multicam_Black,             *,      100,    50
 
 			//new 6.17.2020
-	        MVS_Molle_Panel_OD,                                                                                  *,      100,    50
-	        MVS_Molle_Panel_Black,                                                                                 *,      100,    50
-	        MVS_Molle_Panel_Tan,                                                                               *,      100,    50
-	        MVS_Molle_Panel_ERDL,                                                                                *,      100,    50
-	        MVS_Molle_Panel_Snow,                                                                                *,      100,    50
-	        MVS_Molle_Panel_Multicam,                                                                            *,      100,    50
-	        MVS_Molle_Panel_Multicam_Tropic,                                                                     *,      100,    50
-	        MVS_Molle_Panel_Multicam_Black,                                                                      *,      100,    50
+	        MVS_Molle_Panel_OD,                    *,      100,    50
+	        MVS_Molle_Panel_Black,                 *,      100,    50
+	        MVS_Molle_Panel_Tan,                   *,      100,    50
+	        MVS_Molle_Panel_ERDL,                  *,      100,    50
+	        MVS_Molle_Panel_Snow,                  *,      100,    50
+	        MVS_Molle_Panel_Multicam,              *,      100,    50
+	        MVS_Molle_Panel_Multicam_Tropic,       *,      100,    50
+	        MVS_Molle_Panel_Multicam_Black,        *,      100,    50
 
-	        MVS_Pack_OD,                                                                                    *,      100,    50
-	        MVS_Pack_Tan,                                                                                   *,      100,    50
-	        MVS_Pack_Black,                                                                                 *,      100,    50
-	        MVS_Pack_Snow,                                                                                  *,      100,    50
-	        MVS_Pack_ERDL,                                                                                  *,      100,    50
-	        MVS_Pack_Multicam,                                                                              *,      100,    50
-	        MVS_Pack_Multicam_Tropic,                                                                       *,      100,    50
-	        MVS_Pack_Multicam_Black,                                                                        *,      100,    50
+	        MVS_Pack_OD,                           *,      100,    50
+	        MVS_Pack_Tan,                          *,      100,    50
+	        MVS_Pack_Black,                        *,      100,    50
+	        MVS_Pack_Snow,                         *,      100,    50
+	        MVS_Pack_ERDL,                         *,      100,    50
+	        MVS_Pack_Multicam,                     *,      100,    50
+	        MVS_Pack_Multicam_Tropic,              *,      100,    50
+	        MVS_Pack_Multicam_Black,               *,      100,    50
 
-	        MVS_Assault_Pack_OD,                                                                            *,      100,    50
-	        MVS_Assault_Pack_Tan,                                                                           *,      100,    50
-	        MVS_Assault_Pack_Black,                                                                         *,      100,    50
-	        MVS_Assault_Pack_Snow,                                                                          *,      100,    50
-	        MVS_Assault_Pack_ERDL,                                                                          *,      100,    50
-	        MVS_Assault_Pack_Multicam,                                                                      *,      100,    50
-	        MVS_Assault_Pack_Multicam_Tropic,                                                               *,      100,    50
-	        MVS_Assault_Pack_Multicam_Black,                                                                *,      100,    50
+	        MVS_Assault_Pack_OD,                   *,      100,    50
+	        MVS_Assault_Pack_Tan,                  *,      100,    50
+	        MVS_Assault_Pack_Black,                *,      100,    50
+	        MVS_Assault_Pack_Snow,                 *,      100,    50
+	        MVS_Assault_Pack_ERDL,                 *,      100,    50
+	        MVS_Assault_Pack_Multicam,             *,      100,    50
+	        MVS_Assault_Pack_Multicam_Tropic,      *,      100,    50
+	        MVS_Assault_Pack_Multicam_Black,       *,      100,    50
 
-			MVS_Radio,                                                                                  	*,      100,    50
-			MVS_Radio_Pack_OD,                                                                              *,      100,    50
-	        MVS_Radio_Pack_Tan,                                                                             *,      100,    50
-	        MVS_Radio_Pack_Black,                                                                           *,      100,    50
-	        MVS_Radio_Pack_Snow,                                                                            *,      100,    50
-	        MVS_Radio_Pack_ERDL,                                                                            *,      100,    50
-	        MVS_Radio_Pack_Multicam,                                                                        *,      100,    50
-	        MVS_Radio_Pack_Multicam_Tropic,                                                                 *,      100,    50
-	        MVS_Radio_Pack_Multicam_Black,                                                                  *,      100,    50
+			MVS_Radio,                             *,      100,    50
+			MVS_Radio_Pack_OD,                     *,      100,    50
+	        MVS_Radio_Pack_Tan,                    *,      100,    50
+	        MVS_Radio_Pack_Black,                  *,      100,    50
+	        MVS_Radio_Pack_Snow,                   *,      100,    50
+	        MVS_Radio_Pack_ERDL,                   *,      100,    50
+	        MVS_Radio_Pack_Multicam,               *,      100,    50
+	        MVS_Radio_Pack_Multicam_Tropic,        *,      100,    50
+	        MVS_Radio_Pack_Multicam_Black,         *,      100,    50
 
-			MVS_Rucksack_OD,                                                                          		*,      100,    50
-	        MVS_Rucksack_Tan,                                                                            	*,      100,    50
-			MVS_Rucksack_Black,                                                                            	*,      100,    50
-			MVS_Rucksack_Snow,                                                                     			*,      100,    50
-	        MVS_Rucksack_ERDL,                                                                         		*,      100,    50
-	        MVS_Rucksack_Multicam,                                                                          *,      100,    50
-	        MVS_Rucksack_Multicam_Tropic,                                                                   *,      100,    50
-	        MVS_Rucksack_Multicam_Black,                                                                    *,      100,    50
+			MVS_Rucksack_OD,                       *,      100,    50
+	        MVS_Rucksack_Tan,                      *,      100,    50
+			MVS_Rucksack_Black,                    *,      100,    50
+			MVS_Rucksack_Snow,                     *,      100,    50
+	        MVS_Rucksack_ERDL,                     *,      100,    50
+	        MVS_Rucksack_Multicam,                 *,      100,    50
+	        MVS_Rucksack_Multicam_Tropic,          *,      100,    50
+	        MVS_Rucksack_Multicam_Black,           *,      100,    50
 
-	        MVS_Compact_1_OD,                                                                          		*,      100,    50
-	        MVS_Compact_1_Tan,                                                                          	*,      100,    50
-	        MVS_Compact_1_Black,                                                                       		*,      100,    50
-	        MVS_Compact_1_Snow,                                                                         	*,      100,    50
-	        MVS_Compact_1_ERDL,                                                                         	*,      100,    50
-	        MVS_Compact_1_Multicam,                                                                         *,      100,    50
-	        MVS_Compact_1_Multicam_Tropic,                                                                  *,      100,    50
-	        MVS_Compact_1_Multicam_Black,                                                                   *,      100,    50
+	        MVS_Compact_1_OD,                      *,      100,    50
+	        MVS_Compact_1_Tan,                     *,      100,    50
+	        MVS_Compact_1_Black,                   *,      100,    50
+	        MVS_Compact_1_Snow,                    *,      100,    50
+	        MVS_Compact_1_ERDL,                    *,      100,    50
+	        MVS_Compact_1_Multicam,                *,      100,    50
+	        MVS_Compact_1_Multicam_Tropic,         *,      100,    50
+	        MVS_Compact_1_Multicam_Black,          *,      100,    50
 
-	        MVS_Compact_2_OD,                                                                         		*,      100,    50
-	        MVS_Compact_2_Tan,                                                                              *,      100,    50
-	        MVS_Compact_2_Black,                                                                         	*,      100,    50
-	        MVS_Compact_2_Snow,                                                                             *,      100,    50
-	        MVS_Compact_2_ERDL,                                                                             *,      100,    50
-	        MVS_Compact_2_Multicam,                                                                         *,      100,    50
-	        MVS_Compact_2_Multicam_Tropic,                                                                  *,      100,    50
-	        MVS_Compact_2_Multicam_Black,                                                                   *,      100,    50
+	        MVS_Compact_2_OD,                      *,      100,    50
+	        MVS_Compact_2_Tan,                     *,      100,    50
+	        MVS_Compact_2_Black,                   *,      100,    50
+	        MVS_Compact_2_Snow,                    *,      100,    50
+	        MVS_Compact_2_ERDL,                    *,      100,    50
+	        MVS_Compact_2_Multicam,                *,      100,    50
+	        MVS_Compact_2_Multicam_Tropic,         *,      100,    50
+	        MVS_Compact_2_Multicam_Black,          *,      100,    50
 
 	        //new 12.16.20
-			MVS_SlingPack_OD,                                                                            *,      100,    50
-	        MVS_SlingPack_Tan,                                                                           *,      100,    50
-	        MVS_SlingPack_Black,                                                                         *,      100,    50
-	        MVS_SlingPack_Multicam,                                                                          *,      100,    50
-	        MVS_SlingPack_Multicam_Black,                                                                          *,      100,    50
-	        MVS_SlingPack_Multicam_Tropic,                                                                      *,      100,    50
-	        MVS_SlingPack_ERDL,                                                               *,      100,    50
-	        MVS_SlingPack_Snow,                                                                *,      100,    50
+			MVS_SlingPack_OD,                      *,      100,    50
+	        MVS_SlingPack_Tan,                     *,      100,    50
+	        MVS_SlingPack_Black,                   *,      100,    50
+	        MVS_SlingPack_Multicam,                *,      100,    50
+	        MVS_SlingPack_Multicam_Black,          *,      100,    50
+	        MVS_SlingPack_Multicam_Tropic,         *,      100,    50
+	        MVS_SlingPack_ERDL,                    *,      100,    50
+	        MVS_SlingPack_Snow,                    *,      100,    50
 
-			MVS_Pakol_brown,                                                                            	*,      100,    50
-			MVS_Pakol_Comtac,                                                                            	*,      100,    50
+			MVS_Pakol_brown,                       *,      100,    50
+			MVS_Pakol_Comtac,                      *,      100,    50
 
-	        MVS_Cap_OD,                                                                           			*,      100,    50
-	        MVS_Cap_Tan,                                                                           			*,      100,    50
-	        MVS_Cap_Black,                                                                           		*,      100,    50
-	        MVS_Cap_Snow,                                                                           		*,      100,    50
-	        MVS_Cap_ERDL,                                                                           		*,      100,    50
-	        MVS_Cap_Multicam,                                                                           	*,      100,    50
-	        MVS_Cap_Multicam_Tropic,                                                                    	*,      100,    50
-	        MVS_Cap_Multicam_Black,                                                                     	*,      100,    50
+	        MVS_Cap_OD,                            *,      100,    50
+	        MVS_Cap_Tan,                           *,      100,    50
+	        MVS_Cap_Black,                         *,      100,    50
+	        MVS_Cap_Snow,                          *,      100,    50
+	        MVS_Cap_ERDL,                          *,      100,    50
+	        MVS_Cap_Multicam,                      *,      100,    50
+	        MVS_Cap_Multicam_Tropic,               *,      100,    50
+	        MVS_Cap_Multicam_Black,                *,      100,    50
 
 	        MVS_FlatCap,                                                                           			*,      100,    50
 	        MVS_FlatCap_Snow,                                                                           	*,      100,    50
