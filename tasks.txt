@@ -1,0 +1,58 @@
+Car ClassName	Dingo
+Driver Door	DingoDoors_Driver
+CoDriver Door	DingoDoors_CoDriver
+Rear Left Door	DingoDoors_Cargo1
+Rear Right Door	DingoDoors_Cargo2
+Hood	DingoHood
+Trunk	DingoTrunk
+Attachments	SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7 2x
+DingoWheel 4x
+
+(For different colors add _white/_black/_beige in the end of classname)
+Car: CrSk_VAZ_2107 (_white/_black/_beige)
+Door front left: VAZ2107_dver_1_1 (_white/_black/_beige)
+Door front right: VAZ2107_dver_2_1 (_white/_black/_beige)
+Door rear left: VAZ2107_dver_1_2 (_white/_black/_beige)
+Door rear right: VAZ2107_dver_2_2 (_white/_black/_beige)
+Hood: VAZ2107_kapot (_white/_black/_beige)
+Trunk: VAZ2107_bagazhnik (_white/_black/_beige)
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7 2x
+VAZ2107_koleso 4x
+
+(For different colors add _red/_black/_beater/_purple in the end of classname)
+CrSk_BMW_525i_E34 (_red/_black/_beater/_purple )
+Door front left: BMWE34_dver_1_1 (_red/_black/_beater/_purple )
+Door front right: BMWE34_dver_2_1 (_red/_black/_beater/_purple )
+Door rear left: BMWE34_dver_1_2 (_red/_black/_beater/_purple )
+Door rear right: BMWE34_dver_2_2 (_red/_black/_beater/_purple )
+Hood: BMWE34_kapot (_red/_black/_beater/_purple )
+Trunk: BMWE34_bagazhnik (_red/_black/_beater/_purple )
+SparkPlug
+CarBattery
+CarRadiator
+HeadlightH7 2x
+BMWE34_koleso_style5
+BMWE34_koleso_style2
+BMWE34_koleso_style16
+BMWE34_koleso_style21
+BMWE34_koleso_style21_black
+BMWE34_koleso_style37
+BMWE34_koleso_shtamp
+BMWE34_koleso_shtamp_black
+
+Car: CrSk_GAZ_3309
+Door Left: GAZ3309_dver_1_1
+Door Right: GAZ3309_dver_2_1
+Hood: GAZ3309_kapot
+SparkPlug
+TruckBattery
+CarRadiator
+HeadlightH7 2x
+GAZ3309_koleso 2x
+GAZ3309_koleso_double 2x
