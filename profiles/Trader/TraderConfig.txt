@@ -586,95 +586,95 @@
 	        MVS_Cap_Multicam_Tropic,               *,      100,    50
 	        MVS_Cap_Multicam_Black,                *,      100,    50
 
-	        MVS_FlatCap,                                                                           			*,      100,    50
-	        MVS_FlatCap_Snow,                                                                           	*,      100,    50
-	        MVS_FlatCap_Multicam,                                                                           *,      100,    50
-	        MVS_FlatCap_Multicam_Tropic,                                                                    *,      100,    50
-	        MVS_FlatCap_Multicam_Black,                                                                     *,      100,    50
+	        MVS_FlatCap,                           *,      100,    50
+	        MVS_FlatCap_Snow,                      *,      100,    50
+	        MVS_FlatCap_Multicam,                  *,      100,    50
+	        MVS_FlatCap_Multicam_Tropic,           *,      100,    50
+	        MVS_FlatCap_Multicam_Black,            *,      100,    50
 
-	        MVS_BoonieHat,                                                                                  *,      100,    50
-	        MVS_BoonieHat_Snow,                                                                             *,      100,    50
-	        MVS_BoonieHat_Multicam,                                                                         *,      100,    50
-	        MVS_BoonieHat_Multicam_Tropic,                                                                  *,      100,    50
-	        MVS_BoonieHat_Multicam_Black,                                                                   *,      100,    50
+	        MVS_BoonieHat,                         *,      100,    50
+	        MVS_BoonieHat_Snow,                    *,      100,    50
+	        MVS_BoonieHat_Multicam,                *,      100,    50
+	        MVS_BoonieHat_Multicam_Tropic,         *,      100,    50
+	        MVS_BoonieHat_Multicam_Black,          *,      100,    50
 
-	        MVS_Helmet_01_Tan,                                                                              *,      100,    50
-	        MVS_Helmet_01_Tan_Worn,                                                                         *,      100,    50
-	        MVS_Helmet_01_OD,                                                                               *,      100,    50
-	        MVS_Helmet_01_Black,                                                                            *,      100,    50
-	        MVS_Helmet_01_Snow,                                                                             *,      100,    50
-	        MVS_Helmet_01_ERDL,                                                                             *,      100,    50
-	        MVS_Helmet_01_Multicam,                                                                         *,      100,    50
-	        MVS_Helmet_01_Multicam_Tropic,                                                                  *,      100,    50
-	        MVS_Helmet_01_Multicam_Black,                                                                   *,      100,    50
+	        MVS_Helmet_01_Tan,                     *,      100,    50
+	        MVS_Helmet_01_Tan_Worn,                *,      100,    50
+	        MVS_Helmet_01_OD,                      *,      100,    50
+	        MVS_Helmet_01_Black,                   *,      100,    50
+	        MVS_Helmet_01_Snow,                    *,      100,    50
+	        MVS_Helmet_01_ERDL,                    *,      100,    50
+	        MVS_Helmet_01_Multicam,                *,      100,    50
+	        MVS_Helmet_01_Multicam_Tropic,         *,      100,    50
+	        MVS_Helmet_01_Multicam_Black,          *,      100,    50
 
 	        //new 12.16.20
-			MVS_Helmet_02_Tan,                                                                              *,      100,    50
-	        MVS_Helmet_02_OD,                                                                               *,      100,    50
-	        MVS_Helmet_02_Black,                                                                            *,      100,    50
-	        MVS_Helmet_02_Snow,                                                                             *,      100,    50
-	        MVS_Helmet_02_ERDL,                                                                             *,      100,    50
-	        MVS_Helmet_02_Multicam,                                                                         *,      100,    50
-	        MVS_Helmet_02_Multicam_Tropic,                                                                  *,      100,    50
-	        MVS_Helmet_02_Multicam_Black,                                                                   *,      100,    50
+			MVS_Helmet_02_Tan,                     *,      100,    50
+	        MVS_Helmet_02_OD,                      *,      100,    50
+	        MVS_Helmet_02_Black,                   *,      100,    50
+	        MVS_Helmet_02_Snow,                    *,      100,    50
+	        MVS_Helmet_02_ERDL,                    *,      100,    50
+	        MVS_Helmet_02_Multicam,                *,      100,    50
+	        MVS_Helmet_02_Multicam_Tropic,         *,      100,    50
+	        MVS_Helmet_02_Multicam_Black,          *,      100,    50
 
-	        MVS_OpsCore_Tan,                                                                                *,      100,    50
-	        MVS_OpsCore_OD,                                                                                 *,      100,    50
-	        MVS_OpsCore_Black,                                                                              *,      100,    50
-	        MVS_OpsCore_Snow,                                                                               *,      100,    50
-			MVS_OpsCore_ERDL,                                                                        	    *,      100,    50
-			MVS_OpsCore_Multicam,                                                                        	*,      100,    50
-			MVS_OpsCore_Multicam_Tropic,                                                                    *,      100,    50
-			MVS_OpsCore_Multicam_Black,                                                                     *,      100,    50
+	        MVS_OpsCore_Tan,                       *,      100,    50
+	        MVS_OpsCore_OD,                        *,      100,    50
+	        MVS_OpsCore_Black,                     *,      100,    50
+	        MVS_OpsCore_Snow,                      *,      100,    50
+			MVS_OpsCore_ERDL,                      *,      100,    50
+			MVS_OpsCore_Multicam,                  *,      100,    50
+			MVS_OpsCore_Multicam_Tropic,           *,      100,    50
+			MVS_OpsCore_Multicam_Black,            *,      100,    50
 
-	        MVS_ArmoredHelmet_Tan,                                                                       	*,      500,    250
-	        MVS_ArmoredHelmet_OD,                                                                           *,      500,    250
-	        MVS_ArmoredHelmet_Black,                                                                        *,      500,    250
-	        MVS_ArmoredHelmet_Snow,                                                                         *,      500,    250
-	        MVS_ArmoredHelmet_ERDL,                                                                         *,      500,    250
-	        MVS_ArmoredHelmet_Multicam,                                                                     *,      500,    250
-	        MVS_ArmoredHelmet_Multicam_Tropic,                                                              *,      500,    250
-	        MVS_ArmoredHelmet_Multicam_Black,                                                               *,      500,    250
+	        MVS_ArmoredHelmet_Tan,                 *,      500,    250
+	        MVS_ArmoredHelmet_OD,                  *,      500,    250
+	        MVS_ArmoredHelmet_Black,               *,      500,    250
+	        MVS_ArmoredHelmet_Snow,                *,      500,    250
+	        MVS_ArmoredHelmet_ERDL,                *,      500,    250
+	        MVS_ArmoredHelmet_Multicam,            *,      500,    250
+	        MVS_ArmoredHelmet_Multicam_Tropic,     *,      500,    250
+	        MVS_ArmoredHelmet_Multicam_Black,      *,      500,    250
 
 			//new 6.17.20
-	        MVS_Altyn_OD,                                                                       			*,      500,    250
-	        MVS_Altyn_Tan,                                                                           		*,      500,    250
-	        MVS_Altyn_Black,                                                                        		*,      500,    250
+	        MVS_Altyn_OD,                          *,      500,    250
+	        MVS_Altyn_Tan,                         *,      500,    250
+	        MVS_Altyn_Black,                       *,      500,    250
 
 			//new 7.23.20
-	        MVS_6B47_Helmet_OD,                                                                       		*,      100,    50
-	        MVS_6B47_Helmet_Tan,                                                                           	*,      100,    50
-	        MVS_6B47_Helmet_Black,                                                                        	*,      100,    50
+	        MVS_6B47_Helmet_OD,                    *,      100,    50
+	        MVS_6B47_Helmet_Tan,                   *,      100,    50
+	        MVS_6B47_Helmet_Black,                 *,      100,    50
 
 			//new 6.17.20
-	        MVS_Altyn_Visor_OD,                                                                       		*,      100,    50
-	        MVS_Altyn_Visor_Tan,                                                                            *,      100,    50
-	        MVS_Altyn_Visor_Black,                                                                        	*,      100,    50
+	        MVS_Altyn_Visor_OD,                    *,      100,    50
+	        MVS_Altyn_Visor_Tan,                   *,      100,    50
+	        MVS_Altyn_Visor_Black,                 *,      100,    50
 
-	        MVS_WarriorHelmet_Tan,                                                                          *,      1000,    500
-	        MVS_WarriorHelmet_OD,                                                                       	*,      1000,    500
-	        MVS_WarriorHelmet_Black,                                                                        *,      1000,    500
-	        MVS_WarriorHelmet_Snow,                                                                         *,      1000,    500
-	        MVS_WarriorHelmet_ERDL,                                                                         *,      1000,    500
-	        MVS_WarriorHelmet_Multicam,                                                                     *,      1000,    500
-	        MVS_WarriorHelmet_Multicam_Tropic,                                                              *,      1000,    500
-	        MVS_WarriorHelmet_Multicam_Black,                                                               *,      1000,    500
+	        MVS_WarriorHelmet_Tan,                 *,      1000,    500
+	        MVS_WarriorHelmet_OD,                  *,      1000,    500
+	        MVS_WarriorHelmet_Black,               *,      1000,    500
+	        MVS_WarriorHelmet_Snow,                *,      1000,    500
+	        MVS_WarriorHelmet_ERDL,                *,      1000,    500
+	        MVS_WarriorHelmet_Multicam,            *,      1000,    500
+	        MVS_WarriorHelmet_Multicam_Tropic,     *,      1000,    500
+	        MVS_WarriorHelmet_Multicam_Black,      *,      1000,    500
 
-	        MVS_GorkaPants,                                                                           		*,      100,    50
-	        MVS_GorkaPants_Snow,                                                                           	*,      100,    50
-	        MVS_GorkaPants_Multicam,                                                                        *,      100,    50
-	        MVS_GorkaPants_Multicam_Tropic,                                                                 *,      100,    50
-	        MVS_GorkaPants_Multicam_Black,                                                                  *,      100,    50
+	        MVS_GorkaPants,                        *,      100,    50
+	        MVS_GorkaPants_Snow,                   *,      100,    50
+	        MVS_GorkaPants_Multicam,               *,      100,    50
+	        MVS_GorkaPants_Multicam_Tropic,        *,      100,    50
+	        MVS_GorkaPants_Multicam_Black,         *,      100,    50
 
-	        MVS_GorkaJacket,                                                                       		    *,      100,    50
-	        MVS_GorkaJacket_Snow,                                                                       	*,      100,    50
-	        MVS_GorkaJacket_Multicam,                                                                       *,      100,    50
-	        MVS_GorkaJacket_Multicam_Tropic,                                                                *,      100,    50
-	        MVS_GorkaJacket_Multicam_Black,                                                                 *,      100,    50
+	        MVS_GorkaJacket,                       *,      100,    50
+	        MVS_GorkaJacket_Snow,                  *,      100,    50
+	        MVS_GorkaJacket_Multicam,              *,      100,    50
+	        MVS_GorkaJacket_Multicam_Tropic,       *,      100,    50
+	        MVS_GorkaJacket_Multicam_Black,        *,      100,    50
 
 			//I am not making more retextures for the BDU pants because of new combat pants model
-			MVS_Pants_BDU,                                                                         			*,      100,    50
-			MVS_Pants_BDU_Snow,                                                                         	*,      100,    50
+			MVS_Pants_BDU,                         *,      100,    50
+			MVS_Pants_BDU_Snow,                    *,      100,    50
 
 			MVS_CombatPants_OD,                                                                         	*,      100,    50
 			MVS_CombatPants_Tan,                                                                         	*,      100,    50
