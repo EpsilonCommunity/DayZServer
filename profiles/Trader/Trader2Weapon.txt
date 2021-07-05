@@ -1,62 +1,62 @@
-<Trader> Weapon Trader
-	<Category> Melee
-		BrassKnuckles_Shiny,	W,		15,		6
-		StunBaton,				W,		15,		9
-		Pipe,					W,		25,		10
-		CattleProd,				W,		25,		15
-		BaseballBat,			W,		35,		17
-		NailedBaseballBat,		W,		45,		20
+<Trader>WeaponTrader
+<Category>Melee
+BrassKnuckles_Shiny,W,15,6
+StunBaton,W,15,9
+Pipe,W,25,10
+CattleProd,W,25,15
+BaseballBat,W,35,17
+NailedBaseballBat,W,45,20
 
-	<Category> Sidearms
-		Flaregun,               W,		80,		40
-		MakarovIJ70,			W,		100,	50
-		CZ75,					W,		135,	70
-		FNX45,					W,		175,	90
-		Glock19,				W,		300,	130
-		MKII,					W,		320,	160
-		Colt1911,				W,		340,	180
-		Engraved1911,			W,		340,	180
+<Category>Sidearms
+Flaregun,W,80,40
+MakarovIJ70,W,100,50
+CZ75,W,135,70
+FNX45,W,175,90
+Glock19,W,300,130
+MKII,W,320,160
+Colt1911,W,340,180
+Engraved1911,W,340,180
 
-	<Category> Rifles
-		Izh18,					W,		350,	175
-		Mosin9130,				W,		400,	200
-		CZ527,					W,		500,	250
-		Winchester70,			W,		500,	250
-		SKS,					W,		600,	300
+<Category>Rifles
+Izh18,W,350,175
+Mosin9130,W,400,200
+CZ527,W,500,250
+Winchester70,W,500,250
+SKS,W,600,300
 
-	<Category> Shotguns
-		Mp133Shotgun,			W,		500,	250
-		Izh43Shotgun,			W,		900,	400
-		Saiga,					W,		1500,	600
+<Category>Shotguns
+Mp133Shotgun,W,500,250
+Izh43Shotgun,W,900,400
+Saiga,W,1500,600
 
-	<Category> Submachine Guns
-		CZ61,					W,		700,	300
-		UMP45,					W,		800,	350
-		MP5K,					W,		1000,	450
-		AKS74U,					W,		1100,	600
+<Category>SubmachineGuns
+CZ61,W,700,300
+UMP45,W,800,350
+MP5K,W,1000,450
+AKS74U,W,1100,600
 
-	<Category> Assault Rifles
-		FAL,					W,		1000,	450
-		AKM,					W,		1500,	750
-		AK101,					W,		1500,	750
-		AK74,					W,		1600,	750
-		M4A1,					W,		1500,	750
+<Category>AssaultRifles
+FAL,W,1000,450
+AKM,W,1500,750
+AK101,W,1500,750
+AK74,W,1600,750
+M4A1,W,1500,750
 
-	//<Category> Light Machine Guns
+//<Category>LightMachineGuns
 
-	<Category> Sniper Rifles
-		VSS,					W,		1600,	960
-		B95,					W,		1700,	1100
-		SVD,					W,		2000,	1200
+<Category>SniperRifles
+VSS,W,1600,960
+B95,W,1700,1100
+SVD,W,2000,1200
 
-	<Category> Grenades
-		RGD5Grenade,			1,		300,	100
-		M67Grenade,				1,		300,	100
-		M18SmokeGrenade_Red,	1,		300,	100
-		M18SmokeGrenade_Green,	1,		300,	100
-		M18SmokeGrenade_Yellow,	1,		300,	100
-		M18SmokeGrenade_Purple,	1,		300,	100
-		M18SmokeGrenade_White,	1,		300,	100
-		RDG2SmokeGrenade_Black,	1,		300,	100
-		RDG2SmokeGrenade_White,	1,		300,	100
-		FlashGrenade,			1,		300,	100
+<Category>Grenades
+RGD5Grenade,1,300,100
+M67Grenade,1,300,100
+M18SmokeGrenade_Red,1,300,100
+M18SmokeGrenade_Green,1,300,100
+M18SmokeGrenade_Yellow,1,300,100
+M18SmokeGrenade_Purple,1,300,100
+M18SmokeGrenade_White,1,300,100
+RDG2SmokeGrenade_Black,1,300,100
+RDG2SmokeGrenade_White,1,300,100
+FlashGrenade,1,300,100

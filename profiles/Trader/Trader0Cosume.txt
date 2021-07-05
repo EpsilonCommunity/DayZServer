@@ -1,101 +1,110 @@
-<Trader> Consume Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
-	<Category> Vegetables							// Category Name
-		CaninaBerry,			*,		1,		1	// Item Classname, Quantity, Buyvalue, Sellvalue
-		SambucusBerry,			*,		1,		1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
-		Plum,					*,		1,		1	// Buyvalue 1 means it can not be bought
-		Kiwi,					*,		1,		1	// Sellvalue 1 means it can not be selled
-		Apple,					*,		1,		1
-		Pear,					*,		1,		1
-		Orange,					*,		1,		1
-		Banana,					*,		1,		1
-		Tomato,					*,		1,		1
-		Potato,					*,		1,		1
-		GreenBellPepper,		*,		1,		1
-		Zucchini,				*,		3,		1
-		Pumpkin,				*,		8,		3
-		AgaricusMushroom,		*,		2,		1
-		AmanitaMushroom,		*,		2,		1
-		LactariusMushroom,		*,		2,		1
-		MacrolepiotaMushroom,	*,		2,		1
-		PsilocybeMushroom,		*,		2,		1
-		AuriculariaMushroom,	*,		2,		1
-		BoletusMushroom,		*,		2,		1
-		PleurotusMushroom,		*,		2,		1
+//CategoryName
+//ItemClassname,Quantity,Buyvalue,Sellvalue
+//Quantity*meansmaxvalue;QuantityVmeansVehicle;
+//QuantityVNKmeansVehiclewithoutKey;
+//QuantityMmeansMagazine;
+//QuantityWmeansWeapon;
+//QuantitySmeansSteackMeat;
+//QuantityKmeansKeyDuplication
 
-	<Category> Packaged Food
-		PowderedMilk,			*,		1,		1
-		BoxCerealCrunchin,		*,		2,		1
-		Rice,					*,		3,		1
-		Marmalade,				*,		3,		1
-		PeachesCan,				*,		4,		2
-		SardinesCan,			*,		4,		2
-		TunaCan,				*,		4,		2
-		SpaghettiCan,			*,		5,		2
-		BakedBeansCan,			*,		5,		2
-		TacticalBaconCan,		*,		5,		3
+<Trader>ConsumeTrader
+<Category>Vegetables
+CaninaBerry,*,1,1
+SambucusBerry,*,1,1
+Plum,*,1,1
+Kiwi,*,1,1
+Apple,*,1,1
+Pear,*,1,1
+Orange,*,1,1
+Banana,*,1,1
+Tomato,*,1,1
+Potato,*,1,1
+GreenBellPepper,*,1,1
+Zucchini,*,3,1
+Pumpkin,*,8,3
+AgaricusMushroom,*,2,1
+AmanitaMushroom,*,2,1
+LactariusMushroom,*,2,1
+MacrolepiotaMushroom,*,2,1
+PsilocybeMushroom,*,2,1
+AuriculariaMushroom,*,2,1
+BoletusMushroom,*,2,1
+PleurotusMushroom,*,2,1
 
-	<Category> Meat
-		ChickenBreastMeat,		S,		2,		1
-		GoatSteakMeat,			S,		3,		1
-		SheepSteakMeat,			S,		3,		1
-		PigSteakMeat,			S,		4,		2
-		BoarSteakMeat,			S,		4,		2
-		WolfSteakMeat,			S,		4,		2
-		DeerSteakMeat,			S,		5,		2
-		CowSteakMeat,			S,		5,		2
-		Sardines,				S,		7,		4
-		Carp,					S,		10,		5
-		Mackerel,				S,		10,		5
+<Category>PackagedFood
+PowderedMilk,*,1,1
+BoxCerealCrunchin,*,2,1
+Rice,*,3,1
+Marmalade,*,3,1
+PeachesCan,*,4,2
+SardinesCan,*,4,2
+TunaCan,*,4,2
+SpaghettiCan,*,5,2
+BakedBeansCan,*,5,2
+TacticalBaconCan,*,5,3
 
-	<Category> Animal Parts
-		Bone,					*,		2,		1
-		Lard,					*,		2,		1
-		Guts,					*,		2,		1
-		SmallGuts,				*,		2,		1
+<Category>Meat
+ChickenBreastMeat,S,2,1
+GoatSteakMeat,S,3,1
+SheepSteakMeat,S,3,1
+PigSteakMeat,S,4,2
+BoarSteakMeat,S,4,2
+WolfSteakMeat,S,4,2
+DeerSteakMeat,S,5,2
+CowSteakMeat,S,5,2
+Sardines,S,7,4
+Carp,S,10,5
+Mackerel,S,10,5
 
-	<Category> Drinks
-		SodaCan_Cola, 			*,		2, 		1
-		SodaCan_Kvass, 			*,		2, 		1
-		SodaCan_Pipsi, 			*,		2, 		1
-		SodaCan_Spite, 			*,		2, 		1
-		WaterBottle,			*,		5,		2
-		Canteen,				*,		8,		4
-		Vodka,					*,		12,		8
-		Canteen_Spur_Green, 			*, 8, 4
-		Canteen_Spur_Black, 			*, 8, 4
-		Canteen_Spur_Tan, 			*, 8, 4
-		Canteen_Spur_WoodlandCamo, 			*, 8, 4
-		Canteen_Spur_MultiCamo, 			*, 8, 4
-		Canteen_Spur_WinterCamo, 			*, 8, 4
+<Category>AnimalParts
+Bone,*,2,1
+Lard,*,2,1
+Guts,*,2,1
+SmallGuts,*,2,1
 
-	<Category> Medical Supplies
-		Rag,					1,		1,		1
-		BandageDressing,		2,		3,		1
-		BloodTestKit,			*,		5,		2
-		//InjectionVial,		*,		5, 		2
-		Thermometer,			*,		5,		2
-		DisinfectantSpray,		*,		8,		5
-		//Syringe,				*,		8, 		5
-		Heatpack,				*,		10,		5
-		StartKitIV,				*,		10,		6
-		SalineBag,				*,		15,		8
-		BloodBagEmpty,			*,		18,		10
-		FirstAidKit,			*,		20,		10
-		Defibrillator,		*,		35, 	20
+<Category>Drinks
+SodaCan_Cola,*,2,1
+SodaCan_Kvass,*,2,1
+SodaCan_Pipsi,*,2,1
+SodaCan_Spite,*,2,1
+WaterBottle,*,5,2
+Canteen,*,8,4
+Vodka,*,12,8
+Canteen_Spur_Green,*,8,4
+Canteen_Spur_Black,*,8,4
+Canteen_Spur_Tan,*,8,4
+Canteen_Spur_WoodlandCamo,*,8,4
+Canteen_Spur_MultiCamo,*,8,4
+Canteen_Spur_WinterCamo,*,8,4
 
-	<Category> Medications
-		CharcoalTablets,		*,		2,		1
-		DisinfectantAlcohol,	*,		4,		2
-		VitaminBottle,			*,		6,		4
-		TetracyclineAntibiotics,*,		8,		5
-		PainkillerTablets,		*,		10,		6
-		Epinephrine,			*,		20,		10
-		Morphine,				*,		25,		15
+<Category>MedicalSupplies
+Rag,1,1,1
+BandageDressing,2,3,1
+BloodTestKit,*,5,2
+//InjectionVial,*,5,2
+Thermometer,*,5,2
+DisinfectantSpray,*,8,5
+//Syringe,*,8,5
+Heatpack,*,10,5
+StartKitIV,*,10,6
+SalineBag,*,15,8
+BloodBagEmpty,*,18,10
+FirstAidKit,*,20,10
+Defibrillator,*,35,20
 
-	<Category> Money Exchange
-		MoneyRuble1,			1,		1,		1
-		MoneyRuble5,			1,		5,		1
-		MoneyRuble10,			1,		10,		1
-		MoneyRuble25,			1,		25,		1
-		MoneyRuble50,			1,		50,		1
-		MoneyRuble100,			1,		100,	1
+<Category>Medications
+CharcoalTablets,*,2,1
+DisinfectantAlcohol,*,4,2
+VitaminBottle,*,6,4
+TetracyclineAntibiotics,*,8,5
+PainkillerTablets,*,10,6
+Epinephrine,*,20,10
+Morphine,*,25,15
+
+<Category>MoneyExchange
+MoneyRuble1,1,1,1
+MoneyRuble5,1,5,1
+MoneyRuble10,1,10,1
+MoneyRuble25,1,25,1
+MoneyRuble50,1,50,1
+MoneyRuble100,1,100,1
