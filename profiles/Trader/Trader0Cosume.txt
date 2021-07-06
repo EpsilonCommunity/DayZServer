@@ -81,10 +81,8 @@ Canteen_Spur_WinterCamo,*,8,4
 Rag,1,1,1
 BandageDressing,2,3,1
 BloodTestKit,*,5,2
-//InjectionVial,*,5,2
 Thermometer,*,5,2
 DisinfectantSpray,*,8,5
-//Syringe,*,8,5
 Heatpack,*,10,5
 StartKitIV,*,10,6
 SalineBag,*,15,8
